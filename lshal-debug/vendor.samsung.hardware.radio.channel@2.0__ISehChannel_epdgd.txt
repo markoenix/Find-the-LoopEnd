@@ -1,0 +1,1 @@
+*** command 'lshal debug -E vendor.samsung.hardware.radio.channel@2.0::ISehChannel/epdgd' failed: exit code 128

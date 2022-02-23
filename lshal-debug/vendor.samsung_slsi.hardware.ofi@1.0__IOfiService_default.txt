@@ -1,0 +1,1 @@
+*** command 'lshal debug -E vendor.samsung_slsi.hardware.ofi@1.0::IOfiService/default' failed: exit code 128
