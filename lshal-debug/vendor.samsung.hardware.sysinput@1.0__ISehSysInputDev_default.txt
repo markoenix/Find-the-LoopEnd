@@ -1,0 +1,1 @@
+*** command 'lshal debug -E vendor.samsung.hardware.sysinput@1.0::ISehSysInputDev/default' failed: exit code 128

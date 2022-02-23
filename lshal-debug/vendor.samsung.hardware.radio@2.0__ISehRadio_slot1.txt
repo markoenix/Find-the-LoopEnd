@@ -1,0 +1,1 @@
+*** command 'lshal debug -E vendor.samsung.hardware.radio@2.0::ISehRadio/slot1' failed: exit code 128

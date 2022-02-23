@@ -1,0 +1,92 @@
+550 549 253:0 / / ro,nodev,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+551 550 0:17 / /dev rw,nosuid,relatime master:2 - tmpfs tmpfs rw,seclabel,mode=755
+552 551 0:18 / /dev/pts rw,relatime master:3 - devpts devpts rw,seclabel,mode=600,ptmxmode=000
+553 551 0:23 / /dev/cg2_bpf rw,nosuid,nodev,noexec,relatime master:12 - cgroup2 none rw
+554 551 0:24 / /dev/cpuctl rw,nosuid,nodev,noexec,relatime master:13 - cgroup none rw,cpu
+555 551 0:26 / /dev/cpuset rw,nosuid,nodev,noexec,relatime master:15 - cgroup none rw,cpuset,noprefix,release_agent=/sbin/cpuset_release_agent
+556 551 0:27 / /dev/freezer rw,nosuid,nodev,noexec,relatime master:16 - cgroup none rw,freezer
+557 551 0:28 / /dev/memcg rw,nosuid,nodev,noexec,relatime master:17 - cgroup none rw,memory
+558 551 0:29 / /dev/stune rw,nosuid,nodev,noexec,relatime master:18 - cgroup none rw,schedtune
+559 551 0:34 / /dev/usb-ffs/adb rw,relatime master:26 - functionfs adb rw
+560 550 0:4 / /proc rw,relatime master:4 - proc proc rw,gid=3009,hidepid=2
+561 550 0:19 / /sys rw,relatime master:5 - sysfs sysfs rw,seclabel
+562 561 0:16 / /sys/fs/selinux rw,relatime master:6 - selinuxfs selinuxfs rw
+563 561 0:10 / /sys/kernel/tracing rw,relatime master:19 - tracefs tracefs rw,seclabel
+564 561 0:5 / /sys/kernel/debug rw,relatime master:20 - debugfs /sys/kernel/debug rw,seclabel
+565 564 0:10 / /sys/kernel/debug/tracing rw,relatime master:27 - tracefs tracefs rw,seclabel
+566 561 0:30 / /sys/fs/fuse/connections rw,relatime master:22 - fusectl none rw
+567 561 0:32 / /sys/fs/bpf rw,nosuid,nodev,noexec,relatime master:24 - bpf bpf rw
+568 561 0:33 / /sys/fs/pstore rw,nosuid,nodev,noexec,relatime master:25 - pstore pstore rw,seclabel
+569 550 0:20 / /mnt rw,nosuid,nodev,noexec,relatime master:7 - tmpfs tmpfs rw,seclabel,mode=755,gid=1000
+570 569 0:20 /user /mnt/installer rw,nosuid,nodev,noexec,relatime master:10 - tmpfs tmpfs rw,seclabel,mode=755,gid=1000
+571 569 0:20 /user /mnt/androidwritable rw,nosuid,nodev,noexec,relatime master:11 - tmpfs tmpfs rw,seclabel,mode=755,gid=1000
+572 569 0:31 / /mnt/sde rw,relatime - tmpfs tmpfs rw,seclabel,mode=700
+573 569 8:3 / /mnt/vendor/efs rw,nosuid,nodev,noatime master:31 - ext4 /dev/block/platform/13520000.ufs/by-name/efs rw,seclabel,journal_checksum,noauto_da_alloc,i_version
+574 569 8:49 / /mnt/vendor/cpefs rw,nosuid,nodev,noatime master:32 - ext4 /dev/block/platform/13520000.ufs/by-name/cpefs rw,seclabel,journal_checksum,noauto_da_alloc,i_version
+575 550 253:1 / /product ro,relatime master:8 - ext4 /dev/block/dm-1 ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+576 575 253:1 /omc/IUS/etc/permissions /product/etc/permissions ro,relatime master:8 - ext4 /dev/block/dm-1 ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+577 575 253:1 /omc/IUS/etc/sysconfig /product/etc/sysconfig ro,relatime master:8 - ext4 /dev/block/dm-1 ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+578 550 253:2 / /vendor ro,relatime master:9 - ext4 /dev/block/dm-2 ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+579 550 0:21 / /apex rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=755
+580 579 253:0 /system/apex/com.android.permission.gms /apex/com.android.permission ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+581 579 253:0 /system/apex/com.android.extservices.gms /apex/com.android.extservices ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+582 579 253:0 /system/apex/com.android.art.release /apex/com.android.art ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+583 579 253:0 /system/apex/com.android.adbd /apex/com.android.adbd ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+584 579 253:0 /system/apex/com.android.runtime /apex/com.android.runtime ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+585 579 253:0 /system/apex/com.android.conscrypt /apex/com.android.conscrypt ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+586 579 253:0 /system/apex/com.android.resolv /apex/com.android.resolv ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+587 579 253:0 /system/apex/com.android.i18n /apex/com.android.i18n ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+588 579 253:0 /system/apex/com.android.media.swcodec /apex/com.android.media.swcodec ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+589 579 253:0 /system/apex/com.android.media /apex/com.android.media ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+590 579 253:0 /system/apex/com.android.sdkext /apex/com.android.sdkext ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+591 579 253:0 /system/apex/com.android.tethering.inprocess /apex/com.android.tethering ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+592 579 253:0 /system/apex/com.android.vndk.current /apex/com.android.vndk.v30 ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+593 579 253:0 /system/apex/com.android.os.statsd /apex/com.android.os.statsd ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+594 579 253:0 /system/apex/com.android.wifi /apex/com.android.wifi ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+595 579 253:0 /system/apex/com.android.tzdata /apex/com.android.tzdata ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+596 579 253:0 /system/apex/com.android.ipsec /apex/com.android.ipsec ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+597 579 253:0 /system/apex/com.android.mediaprovider /apex/com.android.mediaprovider ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+598 579 253:0 /system/apex/com.android.neuralnetworks /apex/com.android.neuralnetworks ro,relatime master:1 - ext4 /dev/root ro,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,i_version
+599 550 0:22 / /linkerconfig rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=755
+600 599 0:22 /bootstrap /linkerconfig rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=755
+601 550 0:25 / /acct rw,nosuid,nodev,noexec,relatime master:14 - cgroup none rw,cpuacct
+602 550 0:15 / /config rw,nosuid,nodev,noexec,relatime master:21 - configfs none rw
+603 550 259:13 / /omr rw,nosuid,nodev,noatime master:28 - ext4 /dev/block/by-name/omr rw,seclabel,journal_checksum,noauto_da_alloc,i_version
+604 550 259:12 / /cache rw,nosuid,nodev,noatime master:29 - ext4 /dev/block/platform/13520000.ufs/by-name/cache rw,seclabel,journal_checksum,noauto_da_alloc,i_version
+605 550 259:16 / /data rw,nosuid,nodev,noatime master:30 - ext4 /dev/block/platform/13520000.ufs/by-name/userdata rw,seclabel,journal_checksum,noauto_da_alloc,resgid=5678,i_version
+606 605 259:16 /data /data/user/0 rw,nosuid,nodev,noatime master:30 - ext4 /dev/block/platform/13520000.ufs/by-name/userdata rw,seclabel,journal_checksum,noauto_da_alloc,resgid=5678,i_version
+607 550 8:7 / /efs rw,nosuid,nodev,noatime master:33 - ext4 /dev/block/platform/13520000.ufs/by-name/sec_efs rw,seclabel,journal_checksum,noauto_da_alloc,i_version
+608 550 0:35 / /data_mirror rw,nosuid,nodev,noexec,relatime master:23 - tmpfs tmpfs rw,seclabel,mode=700,gid=1000
+609 608 259:16 /user /data_mirror/data_ce/null rw,nosuid,nodev,noatime master:30 - ext4 /dev/block/platform/13520000.ufs/by-name/userdata rw,seclabel,journal_checksum,noauto_da_alloc,resgid=5678,i_version
+610 609 259:16 /data /data_mirror/data_ce/null/0 rw,nosuid,nodev,noatime master:30 - ext4 /dev/block/platform/13520000.ufs/by-name/userdata rw,seclabel,journal_checksum,noauto_da_alloc,resgid=5678,i_version
+611 608 259:16 /user_de /data_mirror/data_de/null rw,nosuid,nodev,noatime master:30 - ext4 /dev/block/platform/13520000.ufs/by-name/userdata rw,seclabel,journal_checksum,noauto_da_alloc,resgid=5678,i_version
+612 608 259:16 /misc/profiles/cur /data_mirror/cur_profiles rw,nosuid,nodev,noatime master:30 - ext4 /dev/block/platform/13520000.ufs/by-name/userdata rw,seclabel,journal_checksum,noauto_da_alloc,resgid=5678,i_version
+613 605 0:40 / /data/data rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+614 605 0:41 / /data/user rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+615 605 0:42 / /data/user_de rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+616 605 0:43 / /data/misc/profiles/cur rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+3457 569 0:116 / /mnt/runtime/default/emulated rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB
+3506 569 0:116 / /mnt/runtime/read/emulated rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=23,derive_gid,default_normal,reserved=20MB
+3555 569 0:116 / /mnt/runtime/write/emulated rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB
+3604 569 0:116 / /mnt/runtime/full/emulated rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB
+3797 570 0:117 / /mnt/installer/0/emulated rw,nosuid,nodev,noexec,noatime master:37 - fuse /dev/fuse rw,lazytime,user_id=0,group_id=0,allow_other
+3747 571 0:117 / /mnt/androidwritable/0/emulated rw,nosuid,nodev,noexec,noatime master:36 - fuse /dev/fuse rw,lazytime,user_id=0,group_id=0,allow_other
+3697 569 0:117 / /mnt/user/0/emulated rw,nosuid,nodev,noexec,noatime master:35 - fuse /dev/fuse rw,lazytime,user_id=0,group_id=0,allow_other
+3846 569 0:116 / /mnt/pass_through/0/emulated rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB
+4977 3697 0:116 /0/Android/data /mnt/user/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB
+4915 3747 0:116 /0/Android/data /mnt/androidwritable/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:39 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB
+4851 3797 0:116 /0/Android/data /mnt/installer/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:38 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB
+5221 3697 0:116 /0/Android/obb /mnt/user/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB
+5159 3747 0:116 /0/Android/obb /mnt/androidwritable/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:41 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,reserved=20MB
+5095 3797 0:116 /0/Android/obb /mnt/installer/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,reserved=20MB
+6466 569 179:1 / /mnt/media_rw/2B36-31AF rw,nosuid,nodev,noexec,noatime master:40 - sdfat /dev/block/vold/public:179,1 rw,fs=exfat,uid=1023,gid=1023,fmask=0007,dmask=0007,allow_utime=0020,codepage=cp437,iocharset=iso8859-1,utf8,namecase=0,adj_req,symlink=0,bps=512,errors=remount-ro
+6624 569 179:1 /.android_secure /mnt/secure/asec rw,nosuid,nodev,noexec,noatime master:40 - sdfat /dev/block/vold/public:179,1 rw,fs=exfat,uid=1023,gid=1023,fmask=0007,dmask=0007,allow_utime=0020,codepage=cp437,iocharset=iso8859-1,utf8,namecase=0,adj_req,symlink=0,bps=512,errors=remount-ro
+6699 569 0:170 / /mnt/runtime/default/2B36-31AF rw,nosuid,nodev,noexec,noatime master:42 - sdcardfs /mnt/media_rw/2B36-31AF rw,fsuid=1023,fsgid=1023,gid=1015,mask=6
+6774 569 0:170 / /mnt/runtime/read/2B36-31AF rw,nosuid,nodev,noexec,noatime master:42 - sdcardfs /mnt/media_rw/2B36-31AF rw,fsuid=1023,fsgid=1023,gid=9997,mask=18
+6849 569 0:170 / /mnt/runtime/write/2B36-31AF rw,nosuid,nodev,noexec,noatime master:42 - sdcardfs /mnt/media_rw/2B36-31AF rw,fsuid=1023,fsgid=1023,gid=9997,mask=18
+6924 569 0:170 / /mnt/runtime/full/2B36-31AF rw,nosuid,nodev,noexec,noatime master:42 - sdcardfs /mnt/media_rw/2B36-31AF rw,fsuid=1023,fsgid=1023,gid=9997,mask=7
+7313 570 0:171 / /mnt/installer/0/2B36-31AF rw,nosuid,nodev,noexec,noatime master:45 - fuse /dev/fuse rw,lazytime,user_id=0,group_id=0,allow_other
+7235 571 0:171 / /mnt/androidwritable/0/2B36-31AF rw,nosuid,nodev,noexec,noatime master:44 - fuse /dev/fuse rw,lazytime,user_id=0,group_id=0,allow_other
+7158 569 0:171 / /mnt/user/0/2B36-31AF rw,nosuid,nodev,noexec,noatime master:43 - fuse /dev/fuse rw,lazytime,user_id=0,group_id=0,allow_other
+7390 569 0:170 / /mnt/pass_through/0/2B36-31AF rw,nosuid,nodev,noexec,noatime master:42 - sdcardfs /mnt/media_rw/2B36-31AF rw,fsuid=1023,fsgid=1023,gid=9997,mask=7
+8645 569 253:3 / /mnt/asec/com.arumcomm.crashlogviewer-TO95u0mp6dHKUS5I ro,nosuid,nodev,noatime master:46 - ext4 /dev/block/dm-3 ro,dirsync,seclabel,block_validity,discard,delalloc,barrier,user_xattr,acl,errors=continue,i_version
