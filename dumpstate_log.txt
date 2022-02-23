@@ -1,0 +1,520 @@
+Module metadata package name: com.google.android.modulemetadata
+Setting progress: 25/385 (6%)
+Setting progress: 30/385 (7%)
+Successfully connected to Dumpstate HAL service ver 1.1dumpstateBoard failed with DumpstateStatus::UNSUPPORTED_MODE
+Setting progress: 35/385 (9%)
+Setting progress: 40/385 (10%)
+Setting progress: 45/385 (11%)
+Setting progress: 50/385 (12%)
+Setting progress: 55/385 (14%)
+Duration of 'DUMPSYS CRITICAL': 0.86s
+Setting progress: 105/385 (27%)
+Duration of 'SYSTEM LOG': 7.27s
+Setting progress: 155/385 (40%)
+Duration of 'EVENT LOG': 0.34s
+Setting progress: 205/385 (53%)
+Duration of 'STATS LOG': 0.03s
+Setting progress: 255/385 (66%)
+Duration of 'RADIO LOG': 0.21s
+Setting progress: 265/385 (68%)
+logcat: Logcat read failure: No such file or directory
+*** command 'logcat -L -b all -v threadtime -v printable -v uid -d *:v' failed: exit code 1
+Setting progress: 275/385 (71%)
+Duration of 'DUMP TRACES': 30.08s
+Adding dir /cache/recovery (recursive: 1)
+Duration of '/cache/recovery': 1.32s
+Adding dir /data/misc/recovery (recursive: 1)
+Adding dir /data/misc/update_engine_log (recursive: 1)
+Adding dir /data/misc/logd (recursive: 0)
+Adding dir /data/misc/prereboot (recursive: 0)
+MOUNT INFO: 79 entries added to zip file
+Adding dir /metadata/ota (recursive: 1)
+Setting progress: 280/385 (72%)
+Setting progress: 285/385 (74%)
+Setting progress: 295/385 (76%)
+Setting progress: 305/385 (79%)
+Setting progress: 315/385 (81%)
+Setting progress: 325/385 (84%)
+Setting progress: 335/385 (87%)
+Setting progress: 345/385 (89%)
+Setting progress: 355/385 (92%)
+Setting progress: 365/385 (94%)
+Android does not support qdisc 'noqueue'
+Setting progress: 375/385 (97%)
+Setting progress: 380/385 (98%)
+Setting progress: 385/385 (100%)
+Adjusting max progress from 385 to 429
+Adjusting max progress from 429 to 500
+Adjusting max progress from 500 to 555
+Adjusting max progress from 555 to 616
+Adjusting max progress from 616 to 682
+execvp on command 'iotop -n 1 -m 100' failed (error: No such file or directory)
+*** command 'iotop -n 1 -m 100' failed: exit code 1
+Successfully connected to Dumpstate HAL service ver 1.1dumpstateBoard failed with DumpstateStatus::UNSUPPORTED_MODE
+Duration of 'FILESYSTEM DEBUG INFO.': 0.54s
+android.hardware.weaver@1.0::IWeaver/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.weaver@1.0::IWeaver' failed: exit code 128
+Adjusting max progress from 682 to 755
+Duration of 'CPU INFO': 1.64s
+Duration of 'PROCESSES AND THREADS': 0.67s
+Adjusting max progress from 755 to 832
+ls: epdgcr: Permission denied
+ls: imscr: Permission denied
+ls: iwc: Permission denied
+ls: wmLog: Permission denied
+*** command 'ls -a -l -R /data/log/' failed: exit code 1
+AddAnrTraceDir(): dump_traces_file=/data/anr/dumptrace_1B84oW, anr_traces_dir=/data/anr
+Dumping current ANR traces (/data/anr/dumptrace_1B84oW) to the main bugreport entry
+Error unlinking temporary trace path /data/anr/dumptrace_1B84oW: Permission denied
+Adjusting max progress from 832 to 920
+Warning: Skipping "android.frameworks.cameraservice.service@2.0::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.cameraservice.service@2.1::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.displayservice@1.0::IDisplayService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.schedulerservice@1.0::ISchedulingPolicyService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.sensorservice@1.0::ISensorManager/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.stats@1.0::IStats/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.audio.effect@5.0::IEffectsFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.audio@5.0::IDevicesFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.bluetooth@1.0::IBluetoothHci/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.camera.provider@2.4::ICameraProvider/legacy/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.camera.provider@2.5::ICameraProvider/legacy/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.camera.provider@2.6::ICameraProvider/legacy/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.cas@1.0::IMediaCasService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.cas@1.1::IMediaCasService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.cas@1.2::IMediaCasService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.configstore@1.1::ISurfaceFlingerConfigs/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gatekeeper@1.0::IGatekeeper/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@1.0::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@1.1::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@2.0::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@2.1::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.composer@2.1::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.health@2.0::IHealth/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.health@2.1::IHealth/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.keymaster@4.0::IKeymasterDevice/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.c2@1.0::IComponentStore/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.c2@1.0::IComponentStore/software": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.c2@1.1::IComponentStore/software": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.omx@1.0::IOmx/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.omx@1.0::IOmxStore/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.memtrack@1.0::IMemtrack/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.0::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.1::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.sensors@2.0::ISensors/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.thermal@1.0::IThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.thermal@2.0::IThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.0::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.1::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.allocator@1.0::IAllocator/ashmem": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/ashmem": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/clearkey": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/epdgd": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsd": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/legacy/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/software": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/widevine": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.token@1.0::ITokenManager/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.net.netd@1.0::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.net.netd@1.1::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.wifi.keystore@1.0::IKeystore/default": cannot be fetched from service manager (null)
+Warning: Skipping "com.dsi.ant@1.0::IAnt/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.frameworks.security.dsms@1.0::ISehDsms/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.frameworks.security.ucm.crypto@1.0::ISehUcmKeystore/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.audio@1.0::ISehDevicesFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.biometrics.fingerprint@3.0::ISehBiometricsFingerprint/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.bluetooth@2.0::ISehBluetooth/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.camera.provider@4.0::ISehCameraProvider/legacy/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.gnss@2.0::ISehGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.health@2.0::ISehHealth/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.hqm@1.0::ISehHqm/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.miscpower@2.0::ISehMiscPower/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.radio.bridge@2.0::ISehBridge/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.radio.channel@2.0::ISehChannel/epdgd": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.radio.channel@2.0::ISehChannel/imsd": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.radio@2.0::ISehRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.radio@2.1::ISehRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.security.engmode@1.0::ISehEngmode/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.security.proca@2.0::ISehProca/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.security.securestorage@3.0::ISehSecureStorage/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.security.vaultkeeper@2.0::ISehVaultKeeper/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.snap@1.0::ISehSnap/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.snap@1.1::ISehSnap/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.snap@1.2::ISehSnap/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.sysinput@1.0::ISehSysInputDev/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.sysinput@1.1::ISehSysInputDev/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung.hardware.thermal@1.0::ISehThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0::IExynosHWCServiceTW/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung_slsi.hardware.configstore@1.0::IExynosHWCConfigs/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.samsung_slsi.hardware.ofi@1.0::IOfiService/default": cannot be fetched from service manager (null)
+*** command 'lshal -lVSietrpc --types=b,c,l,z' failed: exit code 136
+Duration of 'HARDWARE HALS': 0.57s
+android.frameworks.cameraservice.service@2.0::ICameraService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.cameraservice.service@2.0::ICameraService/default' failed: exit code 128
+android.frameworks.cameraservice.service@2.1::ICameraService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.cameraservice.service@2.1::ICameraService/default' failed: exit code 128
+android.frameworks.displayservice@1.0::IDisplayService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.displayservice@1.0::IDisplayService/default' failed: exit code 128
+android.frameworks.schedulerservice@1.0::ISchedulingPolicyService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.schedulerservice@1.0::ISchedulingPolicyService/default' failed: exit code 128
+android.frameworks.sensorservice@1.0::ISensorManager/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.sensorservice@1.0::ISensorManager/default' failed: exit code 128
+android.frameworks.stats@1.0::IStats/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.stats@1.0::IStats/default' failed: exit code 128
+android.hardware.audio.effect@5.0::IEffectsFactory/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.audio.effect@5.0::IEffectsFactory/default' failed: exit code 128
+android.hardware.audio@5.0::IDevicesFactory/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.audio@5.0::IDevicesFactory/default' failed: exit code 128
+android.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default' failed: exit code 128
+android.hardware.bluetooth@1.0::IBluetoothHci/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.bluetooth@1.0::IBluetoothHci/default' failed: exit code 128
+android.hardware.camera.provider@2.4::ICameraProvider/legacy/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.camera.provider@2.4::ICameraProvider/legacy/0' failed: exit code 128
+android.hardware.camera.provider@2.5::ICameraProvider/legacy/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.camera.provider@2.5::ICameraProvider/legacy/0' failed: exit code 128
+android.hardware.camera.provider@2.6::ICameraProvider/legacy/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.camera.provider@2.6::ICameraProvider/legacy/0' failed: exit code 128
+android.hardware.cas@1.0::IMediaCasService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.cas@1.0::IMediaCasService/default' failed: exit code 128
+android.hardware.cas@1.1::IMediaCasService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.cas@1.1::IMediaCasService/default' failed: exit code 128
+android.hardware.cas@1.2::IMediaCasService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.cas@1.2::IMediaCasService/default' failed: exit code 128
+android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default' failed: exit code 128
+android.hardware.configstore@1.1::ISurfaceFlingerConfigs/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.configstore@1.1::ISurfaceFlingerConfigs/default' failed: exit code 128
+android.hardware.gatekeeper@1.0::IGatekeeper/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.gatekeeper@1.0::IGatekeeper/default' failed: exit code 128
+android.hardware.gnss@1.0::IGnss/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.gnss@1.0::IGnss/default' failed: exit code 128
+android.hardware.gnss@1.1::IGnss/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.gnss@1.1::IGnss/default' failed: exit code 128
+android.hardware.gnss@2.0::IGnss/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.gnss@2.0::IGnss/default' failed: exit code 128
+android.hardware.gnss@2.1::IGnss/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.gnss@2.1::IGnss/default' failed: exit code 128
+android.hardware.graphics.composer@2.1::IComposer/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.graphics.composer@2.1::IComposer/default' failed: exit code 128
+android.hardware.health@2.0::IHealth/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.health@2.0::IHealth/default' failed: exit code 128
+android.hardware.health@2.1::IHealth/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.health@2.1::IHealth/default' failed: exit code 128
+android.hardware.keymaster@4.0::IKeymasterDevice/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.keymaster@4.0::IKeymasterDevice/default' failed: exit code 128
+android.hardware.media.c2@1.0::IComponentStore/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.media.c2@1.0::IComponentStore/default' failed: exit code 128
+android.hardware.media.c2@1.0::IComponentStore/software does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.media.c2@1.0::IComponentStore/software' failed: exit code 128
+android.hardware.media.c2@1.1::IComponentStore/software does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.media.c2@1.1::IComponentStore/software' failed: exit code 128
+android.hardware.media.omx@1.0::IOmx/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.media.omx@1.0::IOmx/default' failed: exit code 128
+android.hardware.media.omx@1.0::IOmxStore/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.media.omx@1.0::IOmxStore/default' failed: exit code 128
+android.hardware.memtrack@1.0::IMemtrack/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.memtrack@1.0::IMemtrack/default' failed: exit code 128
+android.hardware.radio.config@1.0::IRadioConfig/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio.config@1.0::IRadioConfig/default' failed: exit code 128
+android.hardware.radio.config@1.1::IRadioConfig/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio.config@1.1::IRadioConfig/default' failed: exit code 128
+android.hardware.radio@1.0::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.0::ISap/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::ISap/slot1' failed: exit code 128
+android.hardware.radio@1.1::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.1::ISap/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::ISap/slot1' failed: exit code 128
+android.hardware.radio@1.2::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.2::ISap/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::ISap/slot1' failed: exit code 128
+android.hardware.radio@1.3::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.4::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/slot1' failed: exit code 128
+android.hardware.sensors@2.0::ISensors/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.sensors@2.0::ISensors/default' failed: exit code 128
+android.hardware.thermal@1.0::IThermal/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.thermal@1.0::IThermal/default' failed: exit code 128
+android.hardware.thermal@2.0::IThermal/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.thermal@2.0::IThermal/default' failed: exit code 128
+android.hardware.usb@1.0::IUsb/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb@1.0::IUsb/default' failed: exit code 128
+android.hardware.usb@1.1::IUsb/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb@1.1::IUsb/default' failed: exit code 128
+android.hidl.allocator@1.0::IAllocator/ashmem does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.allocator@1.0::IAllocator/ashmem' failed: exit code 128
+android.hidl.base@1.0::IBase/ashmem does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/ashmem' failed: exit code 128
+android.hidl.base@1.0::IBase/clearkey does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/clearkey' failed: exit code 128
+android.hidl.base@1.0::IBase/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/default' failed: exit code 128
+android.hidl.base@1.0::IBase/epdgd does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/epdgd' failed: exit code 128
+android.hidl.base@1.0::IBase/imsd does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/imsd' failed: exit code 128
+android.hidl.base@1.0::IBase/legacy/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/legacy/0' failed: exit code 128
+android.hidl.base@1.0::IBase/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/slot1' failed: exit code 128
+android.hidl.base@1.0::IBase/software does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/software' failed: exit code 128
+android.hidl.base@1.0::IBase/widevine does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/widevine' failed: exit code 128
+debug() FAILED on android.hidl.manager@1.2::IServiceManager/default: Status(EX_TRANSACTION_FAILED): 'FAILED_TRANSACTION: '
+android.hidl.token@1.0::ITokenManager/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.token@1.0::ITokenManager/default' failed: exit code 128
+android.system.net.netd@1.0::INetd/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.system.net.netd@1.0::INetd/default' failed: exit code 128
+android.system.net.netd@1.1::INetd/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.system.net.netd@1.1::INetd/default' failed: exit code 128
+android.system.wifi.keystore@1.0::IKeystore/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.system.wifi.keystore@1.0::IKeystore/default' failed: exit code 128
+com.dsi.ant@1.0::IAnt/default does not exist, or no permission to connect.
+*** command 'lshal debug -E com.dsi.ant@1.0::IAnt/default' failed: exit code 128
+vendor.samsung.frameworks.security.dsms@1.0::ISehDsms/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.frameworks.security.dsms@1.0::ISehDsms/default' failed: exit code 128
+vendor.samsung.frameworks.security.ucm.crypto@1.0::ISehUcmKeystore/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.frameworks.security.ucm.crypto@1.0::ISehUcmKeystore/default' failed: exit code 128
+vendor.samsung.hardware.audio@1.0::ISehDevicesFactory/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.audio@1.0::ISehDevicesFactory/default' failed: exit code 128
+vendor.samsung.hardware.biometrics.fingerprint@3.0::ISehBiometricsFingerprint/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.biometrics.fingerprint@3.0::ISehBiometricsFingerprint/default' failed: exit code 128
+vendor.samsung.hardware.bluetooth@2.0::ISehBluetooth/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.bluetooth@2.0::ISehBluetooth/default' failed: exit code 128
+vendor.samsung.hardware.camera.provider@4.0::ISehCameraProvider/legacy/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.camera.provider@4.0::ISehCameraProvider/legacy/0' failed: exit code 128
+vendor.samsung.hardware.gnss@2.0::ISehGnss/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.gnss@2.0::ISehGnss/default' failed: exit code 128
+vendor.samsung.hardware.health@2.0::ISehHealth/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.health@2.0::ISehHealth/default' failed: exit code 128
+vendor.samsung.hardware.hqm@1.0::ISehHqm/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.hqm@1.0::ISehHqm/default' failed: exit code 128
+vendor.samsung.hardware.miscpower@2.0::ISehMiscPower/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.miscpower@2.0::ISehMiscPower/default' failed: exit code 128
+vendor.samsung.hardware.radio.bridge@2.0::ISehBridge/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.radio.bridge@2.0::ISehBridge/slot1' failed: exit code 128
+vendor.samsung.hardware.radio.channel@2.0::ISehChannel/epdgd does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.radio.channel@2.0::ISehChannel/epdgd' failed: exit code 128
+vendor.samsung.hardware.radio.channel@2.0::ISehChannel/imsd does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.radio.channel@2.0::ISehChannel/imsd' failed: exit code 128
+vendor.samsung.hardware.radio@2.0::ISehRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.radio@2.0::ISehRadio/slot1' failed: exit code 128
+vendor.samsung.hardware.radio@2.1::ISehRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.radio@2.1::ISehRadio/slot1' failed: exit code 128
+vendor.samsung.hardware.security.engmode@1.0::ISehEngmode/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.security.engmode@1.0::ISehEngmode/default' failed: exit code 128
+vendor.samsung.hardware.security.proca@2.0::ISehProca/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.security.proca@2.0::ISehProca/default' failed: exit code 128
+vendor.samsung.hardware.security.securestorage@3.0::ISehSecureStorage/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.security.securestorage@3.0::ISehSecureStorage/default' failed: exit code 128
+vendor.samsung.hardware.security.vaultkeeper@2.0::ISehVaultKeeper/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.security.vaultkeeper@2.0::ISehVaultKeeper/default' failed: exit code 128
+vendor.samsung.hardware.snap@1.0::ISehSnap/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.snap@1.0::ISehSnap/default' failed: exit code 128
+vendor.samsung.hardware.snap@1.1::ISehSnap/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.snap@1.1::ISehSnap/default' failed: exit code 128
+vendor.samsung.hardware.snap@1.2::ISehSnap/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.snap@1.2::ISehSnap/default' failed: exit code 128
+vendor.samsung.hardware.sysinput@1.0::ISehSysInputDev/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.sysinput@1.0::ISehSysInputDev/default' failed: exit code 128
+vendor.samsung.hardware.sysinput@1.1::ISehSysInputDev/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.sysinput@1.1::ISehSysInputDev/default' failed: exit code 128
+vendor.samsung.hardware.thermal@1.0::ISehThermal/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung.hardware.thermal@1.0::ISehThermal/default' failed: exit code 128
+vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0::IExynosHWCServiceTW/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0::IExynosHWCServiceTW/default' failed: exit code 128
+vendor.samsung_slsi.hardware.configstore@1.0::IExynosHWCConfigs/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung_slsi.hardware.configstore@1.0::IExynosHWCConfigs/default' failed: exit code 128
+vendor.samsung_slsi.hardware.ofi@1.0::IOfiService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.samsung_slsi.hardware.ofi@1.0::IOfiService/default' failed: exit code 128
+Duration of 'DUMP HALS': 8.32s
+Adjusting max progress from 920 to 1019
+Adjusting max progress from 1019 to 1129
+Adjusting max progress from 1129 to 1250
+Adjusting max progress from 1250 to 1382
+Adjusting max progress from 1382 to 1525
+Adjusting max progress from 1525 to 1679
+Adjusting max progress from 1679 to 1855
+Adjusting max progress from 1855 to 2042
+Adjusting max progress from 2042 to 2251
+Adjusting max progress from 2251 to 2482
+Adjusting max progress from 2482 to 2735
+Adjusting max progress from 2735 to 3010
+Adjusting max progress from 3010 to 3318
+Adjusting max progress from 3318 to 3659
+Adjusting max progress from 3659 to 4033
+Adjusting max progress from 4033 to 4440
+Adjusting max progress from 4440 to 4891
+Adjusting max progress from 4891 to 5386
+Adjusting max progress from 5386 to 5925
+Adding dir /data/log/bt (recursive: 1)
+Adding dir /data/misc/snapshotctl_log (recursive: 0)
+Error dumping service info status_t: PERMISSION_DENIED SveService
+Error dumping service info status_t: FAILED_TRANSACTION android.hardware.power.IPower/default
+Duration of 'DUMPSYS HIGH': 27.34s
+Can't find service: vold
+Duration of 'DUMPSYS': 55.58s
+Duration of 'CHECKIN PROCSTATS': 0.53s
+Duration of 'CHECKIN USAGESTATS': 0.73s
+Duration of 'APP SERVICES PLATFORM': 0.87s
+Duration of 'APP SERVICES NON-PLATFORM': 12.82s
+Duration of 'APP PROVIDERS PLATFORM': 1.10s
+*** command '/system/bin/dumpsys -T 60000 activity provider all-non-platform' timed out after 60.012s (killing pid 14878)
+Adjusting max progress from 5925 to 6536
+Duration of 'APP PROVIDERS NON-PLATFORM': 60.02s
+Adding dir /linkerconfig (recursive: 1)
+section 1000 status 1
+section 1000 status 2
+section 1002 status 1
+section 1002 status 2
+section 1109 status 1
+section 1109 status 2
+section 1110 status 1
+section 1110 status 2
+section 1111 status 1
+section 1111 status 2
+section 1112 status 1
+section 1112 status 2
+section 1113 status 1
+section 1113 status 2
+section 1114 status 1
+section 1114 status 2
+section 1115 status 1
+section 1115 status 2
+section 1116 status 1
+section 1116 status 2
+section 2001 status 1
+section 2001 status 2
+section 2002 status 1
+section 2002 status 2
+section 2003 status 1
+section 2003 status 2
+section 2004 status 1
+section 2004 status 2
+section 2005 status 1
+section 2005 status 2
+section 2006 status 1
+section 2006 status 2
+section 2007 status 1
+section 2007 status 2
+section 3000 status 1
+section 3000 status 2
+section 3001 status 1
+section 3001 status 2
+section 3002 status 1
+section 3002 status 2
+section 3004 status 1
+section 3004 status 2
+section 3005 status 1
+section 3005 status 2
+section 3006 status 1
+section 3006 status 2
+section 3007 status 1
+section 3007 status 2
+section 3008 status 1
+section 3008 status 2
+section 3009 status 1
+section 3009 status 2
+section 3010 status 1
+section 3010 status 2
+section 3011 status 1
+section 3011 status 2
+section 3012 status 1
+section 3012 status 2
+section 3013 status 1
+section 3013 status 2
+section 3014 status 1
+section 3014 status 2
+section 3015 status 1
+section 3015 status 2
+section 3016 status 1
+section 3016 status 2
+section 3017 status 1
+section 3017 status 2
+section 3018 status 1
+section 3018 status 2
+section 3019 status 1
+section 3019 status 2
+section 3020 status 1
+section 3020 status 2
+section 3021 status 1
+section 3021 status 2
+section 3024 status 1
+section 3024 status 2
+section 3027 status 1
+section 3027 status 2
+section 3028 status 1
+section 3028 status 2
+section 3029 status 1
+section 3029 status 2
+section 3030 status 1
+section 3030 status 2
+section 3031 status 1
+section 3031 status 2
+section 3032 status 1
+section 3032 status 2
+section 3033 status 1
+section 3033 status 2
+section 3034 status 1
+section 3034 status 2
+section 3035 status 1
+section 3035 status 2
+section 3036 status 1
+section 3036 status 2
+section 3037 status 1
+section 3037 status 2
+section 3038 status 1
+section 3038 status 2
+section 3039 status 1
+section 3039 status 2
+section 3040 status 1
+section 3040 status 2
+section 3041 status 1
+section 3041 status 2
+section 3042 status 1
+section 3042 status 2
+section 3043 status 1
+section 3043 status 2
+section 3044 status 1
+section 3044 status 2
+section 3045 status 1
+section 3045 status 2
+section 3046 status 1
+section 3046 status 2
+section 3047 status 1
+section 3047 status 2
+section 3049 status 1
+section 3049 status 2
+section 3050 status 1
+section 3050 status 2
+section 3051 status 1
+section 3051 status 2
+section 3052 status 1
+section 3052 status 2
+section 3053 status 1
+section 3053 status 2
+done
+Duration of 'INCIDENT REPORT': 44.61s
+Duration of 'DUMPSTATE': 193.57s
+Duration of 'SYSTEM LOG AFTER DONE': 2.19s
+Duration of 'Total Dumpstate': 238.76s
+Adding main entry (dumpstate-2022-02-11-16-39-46.txt) from /data/user_de/0/com.android.shell/files/bugreports/dumpstate-2022-02-11-16-39-46.tmp to .zip bugreport
+dumpstate id 2 finished around 2022/02/11 16:43:46 (240 s)
+Adding zip text entry main_entry.txt
+dumpstate_log.txt entry on zip file logged up to here
