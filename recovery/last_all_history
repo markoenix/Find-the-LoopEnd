@@ -1,0 +1,522 @@
++ [eY : 2019/6/28 7:15:30]
+--data_resizing
+--delete_apn_changes
+reboot reason : UNKNOWN 
+-
++ [Ko : 2019/1/1 0:0:14]
+--wipe_data
+--reason=MasterClearConfirm
+--locale=es-US
+reboot reason : UNKNOWN 
+-
++ [ot : 2019/1/1 1:22:38]
+--carry_out=csc_factory
+--data_resizing
+reboot reason : UNKNOWN 
+-
++ [TO : 2019/8/13 20:54:53]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=@/cache/recovery/block.map
+reboot reason : UNKNOWN 
+-
++ [Jt : 2019/8/30 0:18:59]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=@/cache/recovery/block.map
+reboot reason : UNKNOWN 
+-
++ [yJ : 2019/10/1 4:16:48]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=@/cache/recovery/block.map
+reboot reason : UNKNOWN 
+-
++ [VL : 2020/2/4 22:4:40]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=@/cache/recovery/block.map
+reboot reason : UNKNOWN 
+-
++ [bX : 2020/3/28 18:17:37]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=@/cache/recovery/block.map
+reboot reason : UNKNOWN 
+-
++ [Uj : 2020/5/7 16:26:48]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=@/cache/recovery/block.map
+reboot reason : UNKNOWN 
+-
++ [A[ | 2020/07/30 20:49:39 | A505GUBU5BTC8]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Thread-9:14746 RecoverySystem installPackage: --update_package=@/cache/recovery/bloc
+[S]   51.6G
+[E]   51.6G
+-
++ [\w | 2020/08/09 09:57:41 | A505GUBS5BTF4]
+NP | OFFSRC:: PWRHOLD / ONSRC:: PWRON / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [tR | 2020/08/09 10:07:50 | A505GUBS5BTF4]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [eH | 2020/08/09 10:08:19 | A505GUBS5BTF4]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [E] | 2020/08/09 10:31:45 | A505GUBS5BTF4]
+NP | OFFSRC:: PWRHOLD / ONSRC:: PWRON / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [xW | 2020/08/09 10:32:57 | A505GUBS5BTF4]
+NP | OFFSRC:: PWRHOLD / ONSRC:: PWRON / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [_[ | 2020/08/09 10:35:02 | A505GUBS5BTF4]
+NP | OFFSRC:: PWRHOLD / ONSRC:: PWRON / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [gr | 2020/08/09 10:35:29 | A505GUBS5BTF4]
+NP | OFFSRC:: PWRHOLD / ONSRC:: PWRON / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [pA | 2020/08/09 10:36:40 | A505GUBS5BTF4]
+NP | OFFSRC:: PWRHOLD / ONSRC:: PWRON / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.6G
+-
++ [Uk | 2020/08/22 17:56:49 | A505GUBS5BTF4]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
+[S]   51.6G
+[E]   51.9G
+-
++ []i | 2020/09/29 00:06:36 | A505GUBS5BTF4]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Thread-12:21256 RecoverySystem installPackage: --update_package=@/cache/recovery/blo
+[S]   51.9G
+[E]   51.9G
+-
++ [xP | 2020/12/25 04:07:45 | A505GUBS5BTI2]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Thread-12:18191 RecoverySystem installPackage: --update_package=@/cache/recovery/blo
+[S]   51.9G
+[E]   51.9G
+-
++ [mc | 2021/02/10 04:33:23 | A505GUBS5BTK7]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Thread-8:25144 RecoverySystem installPackage: --update_package=@/cache/recovery/bloc
+[S]   51.9G
+[E]   51.9G
+-
++ [wR | 2021/05/09 05:02:13 | A505GUBU5BTL1]
+--update_package=@/cache/recovery/block.map
+--locale=es-MX
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Thread-14:19495 RecoverySystem installPackage: --update_package=@/cache/recovery/blo
+[S]   51.9G
+[E]   51.9G
+-
++ [Ql | 2021/07/31 00:39:40 | A505GUBU7CUC6]
+--update_package=@/cache/recovery/block.map
+--locale=es-MX
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Thread-5:21552 RecoverySystem installPackage: --update_package=@/cache/recovery/bloc
++ [kc | 2021/08/25 15:41:02 | A505GUBU8CUF2]
+MP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [vF | 2021/08/25 20:13:08 | A505GUBU8CUF2]
+--wipe_data
+--requested_time=2021/08/25 15:12:45.996
+--reason=MasterClearConfirm,2021-08-25T15:12:46Z
+--locale=es-US
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=Reboot:22171 RecoverySystemMasterClearConfirm,2021-08-25T15:12:46Z
++ [rQ | 2021/08/26 00:04:20 | A505GUBU8CUF2]
+--wipe_data
+--requested_time=2021/08/25 19:03:53.322
+--reason=MasterClearConfirm,2021-08-25T19:03:53Z
+--locale=es-US
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=Reboot:29645 RecoverySystemMasterClearConfirm,2021-08-25T19:03:53Z
++ [Ob | 2021/08/29 19:40:21 | A505GUBU8CUF2]
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [BB | 2021/08/29 20:04:01 | A505GUBU8CUF2]
+--wipe_data
+--requested_time=2021/08/29 15:03:38.796
+--reason=MasterClearConfirm,2021-08-29T15:03:38Z
+--locale=es-MX
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Reboot:25611 RecoverySystemMasterClearConfirm,2021-08-29T15:03:38Z
++ [WZ | 2021/09/06 20:04:48 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [xM | 2021/09/06 20:17:47 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [UL | 2021/09/06 21:01:29 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [MZ | 2021/09/08 01:50:25 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [oC | 2021/09/08 02:12:25 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [OU | 2021/09/08 02:17:48 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [BE | 2021/09/08 02:19:04 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Ms | 2021/09/08 03:07:20 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [xw | 2021/09/08 03:09:14 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Ty | 2021/09/08 03:13:10 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [GF | 2021/09/08 03:23:19 | A505GUBU8CUF2]
+--reason=update_in_progress
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [aX | 2021/09/08 03:24:03 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [kA | 2021/09/08 08:36:11 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [ft | 2021/09/08 08:36:46 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [GJ | 2021/09/08 08:37:51 | A505GUBU8CUF2]
+--reason=update_in_progress
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [qf | 2021/09/08 08:43:24 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [gr | 2021/09/08 08:47:46 | A505GUBU8CUF2]
+--reason=update_in_progress
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Tf | 2021/09/08 08:56:37 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [TQ | 2021/09/08 09:20:14 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [lh | 2021/09/08 09:28:40 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [kh | 2021/09/08 09:32:23 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [vE | 2021/09/08 09:35:44 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [wC | 2021/09/08 09:36:48 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [zD | 2021/09/12 06:03:53 | A505GUBU8CUF2]
+--wipe_data
+--requested_time=2021/09/12 01:03:30.593
+--reason=MasterClearConfirm,2021-09-12T01:03:31Z
+--locale=es-US
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Reboot:13291 RecoverySystemMasterClearConfirm,2021-09-12T01:03:31Z
++ [kI | 2021/09/12 09:27:49 | A505GUBU8CUF2]
+--wipe_data
+--requested_time=2021/09/12 04:27:26.500
+--reason=MasterClearConfirm,2021-09-12T04:27:26Z
+--locale=es-US
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=Reboot:27696 RecoverySystemMasterClearConfirm,2021-09-12T04:27:26Z
++ [qL | 2021/09/12 09:44:29 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [rF | 2021/09/12 10:47:21 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [ZA | 2021/09/12 11:09:30 | A505GUBU8CUF2]
+--wipe_data
+--requested_time=2021/09/12 06:09:04.152
+--reason=MasterClearConfirm,2021-09-12T06:09:04Z
+--locale=es-US
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=Reboot:16899 RecoverySystemMasterClearConfirm,2021-09-12T06:09:04Z
++ [Ox | 2021/09/15 19:15:43 | A505GUBU8CUF2]
+RP | OFFSRC: - / ONSRC: JIGONB / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [rt | 2021/09/15 19:32:08 | A505GUBU8CUF2]
+--wipe_data
+--requested_time=2021/09/15 14:31:40.921
+--reason=MasterClearConfirm,2021-09-15T14:31:41Z
+--locale=es-US
+RP | OFFSRC: - / ONSRC: JIGONB / RSTSTAT: SWRESET
+reboot_reason=Reboot:14189 RecoverySystemMasterClearConfirm,2021-09-15T14:31:41Z
++ [yU | 2021/10/17 00:07:34 | A505GUBU8CUF2]
+--update_package=@/cache/recovery/block.map
+--locale=es-US
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=Thread-10:13549 RecoverySystem installPackage: --update_package=@/cache/recovery/blo
++ [Cf | 2021/11/19 17:17:21 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Bz | 2021/11/19 17:59:44 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Bz | 2021/11/19 18:20:45 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [EA | 2021/11/19 18:23:14 | A505GUBS9CUI2]
+--reason=update_in_progress
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Bf | 2021/11/19 18:33:01 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Hp | 2021/11/19 18:43:25 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [HR | 2021/11/19 19:16:45 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Hc | 2021/11/21 17:01:31 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [eE | 2021/11/23 07:33:08 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [RS | 2021/11/23 07:36:19 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [qq | 2021/11/27 05:13:45 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: JIGONB / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [QI | 2021/11/27 20:51:24 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [hM | 2021/11/28 23:09:26 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Vu | 2021/11/29 01:16:05 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [RV | 2021/11/29 01:20:18 | A505GUBS9CUI2]
+--reason=update_in_progress
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [GA | 2021/11/29 01:25:00 | A505GUBS9CUI2]
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [ed | 2021/11/29 01:28:01 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Gi | 2021/11/29 01:40:05 | A505GUBS9CUI2]
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [PL | 2021/12/04 16:38:38 | A505GUBS9CUI2]
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [jN | 2021/12/04 19:55:03 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [OV | 2021/12/05 11:03:10 | A505GUBS9CUI2]
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [IC | 2021/12/05 11:14:29 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [BH | 2021/12/05 11:36:59 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Cn | 2021/12/10 07:05:34 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Mi | 2021/12/10 10:51:03 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [cZ | 2021/12/11 00:31:09 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [eU | 2021/12/15 03:14:11 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [SM | 2021/12/15 05:29:30 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [HU | 2021/12/18 15:38:35 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Aj | 2021/12/18 15:42:07 | A505GUBS9CUI2]
+--reason=update_in_progress
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [jf | 2021/12/18 15:45:49 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [fs | 2021/12/23 03:59:55 | A505GUBS9CUI2]
+--wipe_data
+--requested_time=2021/12/22 21:59:31.699
+--reason=MasterClearConfirm,2021-12-22T21:59:31Z
+--locale=es-MX
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=Reboot:7222 RecoverySystemMasterClearConfirm,2021-12-22T21:59:31Z
++ [Mq | 2021/12/26 12:42:42 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: PWRON / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [oW | 2021/12/26 12:45:38 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Vu | 2021/12/26 12:48:41 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Cs | 2022/01/01 23:39:03 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [KK | 2022/01/01 23:40:03 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [rn | 2022/01/01 23:43:48 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [tO | 2022/01/02 00:01:08 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [bW | 2022/01/04 10:16:15 | A505GUBS9CUI2]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [qa | 2022/01/12 22:41:48 | A505GUBS9CUI2]
+--update_package=@/cache/recovery/block.map
+--locale=es-MX
+--carry_out=open_fota
+--update_org_package=/data/fota/update.zip
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=Thread-5:17741 RecoverySystem installPackage: --update_package=@/cache/recovery/bloc
++ [IN | 2022/01/21 04:56:27 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Kb | 2022/01/21 05:14:05 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Wz | 2022/01/21 05:24:44 | A505GUBS9CUL4]
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [xr | 2022/01/21 08:22:27 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [FJ | 2022/01/21 08:36:45 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [du | 2022/01/21 08:48:20 | A505GUBS9CUL4]
+--reason=update_in_progress
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [uD | 2022/01/24 06:03:56 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [VL | 2022/01/24 06:22:27 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [eT | 2022/01/24 06:24:56 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [QG | 2022/01/24 06:28:45 | A505GUBS9CUL4]
+--reason=update_in_progress
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [qV | 2022/01/24 06:41:24 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [JK | 2022/01/24 07:19:35 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [hU | 2022/01/24 07:37:49 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Ti | 2022/01/24 07:38:42 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [GC | 2022/02/03 01:49:17 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [ve | 2022/02/03 01:50:42 | A505GUBS9CUL4]
+--reason=update_in_progress
+MP | OFFSRC:: - / ONSRC:: MRST / RSTSTAT:: PINRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Jj | 2022/02/03 01:52:34 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [ip | 2022/02/03 02:41:41 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [qc | 2022/02/05 05:26:31 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [uH | 2022/02/05 05:34:22 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Gt | 2022/02/05 06:10:22 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [Gy | 2022/02/06 11:59:37 | A505GUBS9CUL4]
+--reason=update_in_progress
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [jh | 2022/02/11 11:33:01 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
++ [fS | 2022/02/11 12:42:28 | A505GUBS9CUL4]
+RP | OFFSRC: - / ONSRC: MRST / RSTSTAT: SWRESET
+reboot_reason=BL:Recovery Mode Set by key
