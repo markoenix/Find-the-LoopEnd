@@ -1,0 +1,1 @@
+*** command 'lshal debug -E vendor.samsung.hardware.security.proca@2.0::ISehProca/default' failed: exit code 128

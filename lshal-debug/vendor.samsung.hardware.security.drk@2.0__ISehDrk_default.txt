@@ -1,0 +1,1298 @@
+======= DEVROOT VENDOR #LOG START (5.0.20)=======
+08-25 15:47:52 ServiceName : KNOX, Success.
+08-25 11:50:45 ServiceName : ICCC, Success.
+08-25 15:26:56 ServiceName : KNOX, Success.
+08-25 15:29:33 ServiceName : ICCC, Success.
+08-26 00:12:15 ServiceName : KNOX, Success.
+08-25 20:14:29 ServiceName : ICCC, Success.
+08-29 15:09:47 ServiceName : KNOX, Success.
+08-29 16:14:23 ServiceName : ICCC, Success.
+08-31 09:35:31 ServiceName : AUTHNR, Success.
+09-07 21:02:26 ServiceName : KNOX, Success.
+09-07 21:28:10 ServiceName : KNOX, Success.
+09-07 21:39:06 ServiceName : ICCC, Success.
+09-07 22:21:38 ServiceName : KNOX, Success.
+09-08 00:42:25 ServiceName : ICCC, Success.
+09-08 04:26:33 ServiceName : KNOX, Success.
+09-08 04:45:08 ServiceName : KNOX, Success.
+09-08 04:47:09 ServiceName : ICCC, Success.
+09-12 06:09:14 ServiceName : KNOX, Success.
+09-12 01:23:14 ServiceName : ICCC, Success.
+09-12 04:36:35 ServiceName : KNOX, Success.
+09-12 04:54:06 ServiceName : KNOX, Success.
+09-12 04:59:22 ServiceName : ICCC, Success.
+09-12 05:56:33 ServiceName : KNOX, Success.
+09-12 06:07:47 ServiceName : ICCC, Success.
+09-12 06:16:00 ServiceName : KNOX, Success.
+09-12 06:25:25 ServiceName : ICCC, Success.
+09-15 14:24:58 ServiceName : KNOX, Success.
+09-15 14:30:52 ServiceName : ICCC, Success.
+09-15 14:38:12 ServiceName : KNOX, Success.
+09-15 15:08:15 ServiceName : ICCC, Success.
+09-15 16:44:21 ServiceName : AUTHNR, Success.
+09-15 16:44:25 ServiceName : AUTHNR, Success.
+11-13 14:48:09 ServiceName : AUTHNR, Success.
+11-13 21:39:45 ServiceName : AUTHNR, Success.
+11-19 12:49:56 ServiceName : KNOX, Success.
+11-19 13:05:37 ServiceName : ICCC, Success.
+11-19 13:25:56 ServiceName : KNOX, Success.
+11-19 13:32:25 ServiceName : ICCC, Success.
+11-19 21:48:27 ServiceName : AUTHNR, Success.
+11-28 19:46:07 ServiceName : KNOX, Success.
+11-28 20:37:09 ServiceName : ICCC, Success.
+12-10 15:48:17 ServiceName : AUTHNR, Success.
+12-17 21:38:27 ServiceName : AUTHNR, Success.
+12-18 22:34:39 ServiceName : AUTHNR, Success.
+12-22 22:06:12 ServiceName : KNOX, Success.
+12-22 22:12:13 ServiceName : ICCC, Success.
+12-26 07:08:24 ServiceName : AUTHNR, Success.
+01-02 14:43:20 ServiceName : AUTHNR, Success.
+01-12 00:56:33 ServiceName : AUTHNR, Success.
+02-08 22:34:51 ServiceName : AUTHNR, Success.
+02-07 00:17:12[I] communicate end 0 / length : 0
+02-07 00:30:02[I] communicate start cmd:0x3105, length:140
+02-07 00:30:02[D] this request is from /system/bin/keystore
+02-07 00:30:02[I] cmd [3105] start...
+02-07 00:30:02[I] cmd [3105] end...[0]
+02-07 00:30:02[I] communicate end 0 / length : 0
+02-07 00:45:11[I] communicate start cmd:0x3105, length:140
+02-07 00:45:11[D] this request is from /system/bin/keystore
+02-07 00:45:11[I] cmd [3105] start...
+02-07 00:45:11[I] cmd [3105] end...[0]
+02-07 00:45:11[I] communicate end 0 / length : 0
+02-07 01:13:36[I] communicate start cmd:0x3105, length:140
+02-07 01:13:36[D] this request is from /system/bin/keystore
+02-07 01:13:36[I] cmd [3105] start...
+02-07 01:13:36[I] cmd [3105] end...[0]
+02-07 01:13:36[I] communicate end 0 / length : 0
+02-07 01:49:03[I] communicate start cmd:0x3105, length:140
+02-07 01:49:03[D] this request is from /system/bin/keystore
+02-07 01:49:03[I] cmd [3105] start...
+02-07 01:49:03[I] cmd [3105] end...[0]
+02-07 01:49:03[I] communicate end 0 / length : 0
+02-07 02:14:51[I] communicate start cmd:0x3105, length:140
+02-07 02:14:51[D] this request is from /system/bin/keystore
+02-07 02:14:51[I] cmd [3105] start...
+02-07 02:14:51[I] cmd [3105] end...[0]
+02-07 02:14:51[I] communicate end 0 / length : 0
+02-07 03:00:12[I] communicate start cmd:0x3105, length:140
+02-07 03:00:12[D] this request is from /system/bin/keystore
+02-07 03:00:12[I] cmd [3105] start...
+02-07 03:00:12[I] cmd [3105] end...[0]
+02-07 03:00:12[I] communicate end 0 / length : 0
+02-07 03:31:13[I] communicate start cmd:0x3105, length:140
+02-07 03:31:13[D] this request is from /system/bin/keystore
+02-07 03:31:13[I] cmd [3105] start...
+02-07 03:31:13[I] cmd [3105] end...[0]
+02-07 03:31:13[I] communicate end 0 / length : 0
+02-07 04:06:54[I] communicate start cmd:0x3105, length:140
+02-07 04:06:54[D] this request is from /system/bin/keystore
+02-07 04:06:54[I] cmd [3105] start...
+02-07 04:06:54[I] cmd [3105] end...[0]
+02-07 04:06:54[I] communicate end 0 / length : 0
+02-07 07:16:30[I] communicate start cmd:0x3105, length:140
+02-07 07:16:30[D] this request is from /system/bin/keystore
+02-07 07:16:30[I] cmd [3105] start...
+02-07 07:16:30[I] cmd [3105] end...[0]
+02-07 07:16:30[I] communicate end 0 / length : 0
+02-07 07:16:30[I] communicate start cmd:0x3105, length:140
+02-07 07:16:30[D] this request is from /system/bin/keystore
+02-07 07:16:30[I] cmd [3105] start...
+02-07 07:16:30[I] cmd [3105] end...[0]
+02-07 07:16:30[I] communicate end 0 / length : 0
+02-07 11:07:29[I] communicate start cmd:0x3105, length:140
+02-07 11:07:29[D] this request is from /system/bin/keystore
+02-07 11:07:29[I] cmd [3105] start...
+02-07 11:07:29[I] cmd [3105] end...[0]
+02-07 11:07:29[I] communicate end 0 / length : 0
+02-07 16:20:29[I] communicate start cmd:0x3311, length:64
+02-07 16:20:29[D] this request is from system_server
+02-07 16:20:29[I] cmd [3311] start...
+02-07 16:20:29[E] SecnvmPowerOn isn't supported.
+02-07 16:20:29[I] cmd [3311] end...[-16777217]
+02-07 16:20:29[I] communicate end -16777217 / length : 0
+02-07 16:21:51[I] communicate start cmd:0x3105, length:140
+02-07 16:21:51[D] this request is from /system/bin/keystore
+02-07 16:21:51[I] cmd [3105] start...
+02-07 16:21:51[I] cmd [3105] end...[0]
+02-07 16:21:51[I] communicate end 0 / length : 0
+02-07 16:40:05[I] communicate start cmd:0x3105, length:140
+02-07 16:40:05[D] this request is from /system/bin/keystore
+02-07 16:40:05[I] cmd [3105] start...
+02-07 16:40:05[I] cmd [3105] end...[0]
+02-07 16:40:05[I] communicate end 0 / length : 0
+02-07 16:43:20[I] communicate start cmd:0x3311, length:64
+02-07 16:43:20[D] this request is from system_server
+02-07 16:43:20[I] cmd [3311] start...
+02-07 16:43:20[E] SecnvmPowerOn isn't supported.
+02-07 16:43:20[I] cmd [3311] end...[-16777217]
+02-07 16:43:20[I] communicate end -16777217 / length : 0
+02-07 16:43:58[I] communicate start cmd:0x3311, length:64
+02-07 16:43:58[D] this request is from system_server
+02-07 16:43:58[I] cmd [3311] start...
+02-07 16:43:58[E] SecnvmPowerOn isn't supported.
+02-07 16:43:58[I] cmd [3311] end...[-16777217]
+02-07 16:43:58[I] communicate end -16777217 / length : 0
+02-07 16:44:50[I] communicate start cmd:0x3311, length:64
+02-07 16:44:50[D] this request is from system_server
+02-07 16:44:50[I] cmd [3311] start...
+02-07 16:44:50[E] SecnvmPowerOn isn't supported.
+02-07 16:44:50[I] cmd [3311] end...[-16777217]
+02-07 16:44:50[I] communicate end -16777217 / length : 0
+02-07 16:45:01[I] communicate start cmd:0x3311, length:64
+02-07 16:45:01[D] this request is from system_server
+02-07 16:45:01[I] cmd [3311] start...
+02-07 16:45:01[E] SecnvmPowerOn isn't supported.
+02-07 16:45:01[I] cmd [3311] end...[-16777217]
+02-07 16:45:01[I] communicate end -16777217 / length : 0
+02-07 16:53:58[I] communicate start cmd:0x3105, length:140
+02-07 16:53:58[D] this request is from /system/bin/keystore
+02-07 16:53:58[I] cmd [3105] start...
+02-07 16:53:58[I] cmd [3105] end...[0]
+02-07 16:53:58[I] communicate end 0 / length : 0
+02-07 17:12:19[I] communicate start cmd:0x3311, length:64
+02-07 17:12:19[D] this request is from system_server
+02-07 17:12:19[I] cmd [3311] start...
+02-07 17:12:19[E] SecnvmPowerOn isn't supported.
+02-07 17:12:19[I] cmd [3311] end...[-16777217]
+02-07 17:12:19[I] communicate end -16777217 / length : 0
+02-07 17:14:30[I] communicate start cmd:0x3311, length:64
+02-07 17:14:30[D] this request is from system_server
+02-07 17:14:30[I] cmd [3311] start...
+02-07 17:14:30[E] SecnvmPowerOn isn't supported.
+02-07 17:14:30[I] cmd [3311] end...[-16777217]
+02-07 17:14:30[I] communicate end -16777217 / length : 0
+02-07 17:14:42[I] communicate start cmd:0x3311, length:64
+02-07 17:14:42[D] this request is from system_server
+02-07 17:14:42[I] cmd [3311] start...
+02-07 17:14:42[E] SecnvmPowerOn isn't supported.
+02-07 17:14:42[I] cmd [3311] end...[-16777217]
+02-07 17:14:42[I] communicate end -16777217 / length : 0
+02-07 17:15:44[I] communicate start cmd:0x3105, length:140
+02-07 17:15:44[D] this request is from /system/bin/keystore
+02-07 17:15:44[I] cmd [3105] start...
+02-07 17:15:44[I] cmd [3105] end...[0]
+02-07 17:15:44[I] communicate end 0 / length : 0
+02-07 17:16:54[I] communicate start cmd:0x3311, length:64
+02-07 17:16:54[D] this request is from system_server
+02-07 17:16:54[I] cmd [3311] start...
+02-07 17:16:54[E] SecnvmPowerOn isn't supported.
+02-07 17:16:54[I] cmd [3311] end...[-16777217]
+02-07 17:16:54[I] communicate end -16777217 / length : 0
+02-07 17:40:18[I] communicate start cmd:0x3105, length:140
+02-07 17:40:18[D] this request is from /system/bin/keystore
+02-07 17:40:18[I] cmd [3105] start...
+02-07 17:40:18[I] cmd [3105] end...[0]
+02-07 17:40:18[I] communicate end 0 / length : 0
+02-07 17:40:18[I] communicate start cmd:0x3105, length:140
+02-07 17:40:18[D] this request is from /system/bin/keystore
+02-07 17:40:18[I] cmd [3105] start...
+02-07 17:40:18[I] cmd [3105] end...[0]
+02-07 17:40:18[I] communicate end 0 / length : 0
+02-07 17:54:47[I] communicate start cmd:0x3105, length:140
+02-07 17:54:47[D] this request is from /system/bin/keystore
+02-07 17:54:47[I] cmd [3105] start...
+02-07 17:54:47[I] cmd [3105] end...[0]
+02-07 17:54:47[I] communicate end 0 / length : 0
+02-07 18:13:07[I] communicate start cmd:0x3105, length:140
+02-07 18:13:07[D] this request is from /system/bin/keystore
+02-07 18:13:07[I] cmd [3105] start...
+02-07 18:13:07[I] cmd [3105] end...[0]
+02-07 18:13:07[I] communicate end 0 / length : 0
+02-07 18:24:03[I] communicate start cmd:0x3105, length:140
+02-07 18:24:03[D] this request is from /system/bin/keystore
+02-07 18:24:03[I] cmd [3105] start...
+02-07 18:24:03[I] cmd [3105] end...[0]
+02-07 18:24:03[I] communicate end 0 / length : 0
+02-07 18:40:20[I] communicate start cmd:0x3105, length:140
+02-07 18:40:20[D] this request is from /system/bin/keystore
+02-07 18:40:20[I] cmd [3105] start...
+02-07 18:40:20[I] cmd [3105] end...[0]
+02-07 18:40:20[I] communicate end 0 / length : 0
+02-07 18:56:04[I] communicate start cmd:0x3105, length:140
+02-07 18:56:04[D] this request is from /system/bin/keystore
+02-07 18:56:04[I] cmd [3105] start...
+02-07 18:56:04[I] cmd [3105] end...[0]
+02-07 18:56:04[I] communicate end 0 / length : 0
+02-07 19:17:12[I] communicate start cmd:0x3105, length:140
+02-07 19:17:12[D] this request is from /system/bin/keystore
+02-07 19:17:12[I] cmd [3105] start...
+02-07 19:17:12[I] cmd [3105] end...[0]
+02-07 19:17:12[I] communicate end 0 / length : 0
+02-07 19:40:40[I] communicate start cmd:0x3105, length:140
+02-07 19:40:40[D] this request is from /system/bin/keystore
+02-07 19:40:40[I] cmd [3105] start...
+02-07 19:40:40[I] cmd [3105] end...[0]
+02-07 19:40:40[I] communicate end 0 / length : 0
+02-07 19:53:23[I] communicate start cmd:0x3105, length:140
+02-07 19:53:23[D] this request is from /system/bin/keystore
+02-07 19:53:23[I] cmd [3105] start...
+02-07 19:53:23[I] cmd [3105] end...[0]
+02-07 19:53:23[I] communicate end 0 / length : 0
+02-07 20:17:13[I] communicate start cmd:0x3105, length:140
+02-07 20:17:13[D] this request is from /system/bin/keystore
+02-07 20:17:13[I] cmd [3105] start...
+02-07 20:17:13[I] cmd [3105] end...[0]
+02-07 20:17:13[I] communicate end 0 / length : 0
+02-07 20:31:23[I] communicate start cmd:0x3105, length:140
+02-07 20:31:23[D] this request is from /system/bin/keystore
+02-07 20:31:23[I] cmd [3105] start...
+02-07 20:31:23[I] cmd [3105] end...[0]
+02-07 20:31:23[I] communicate end 0 / length : 0
+02-07 20:56:39[I] communicate start cmd:0x3105, length:140
+02-07 20:56:39[D] this request is from /system/bin/keystore
+02-07 20:56:39[I] cmd [3105] start...
+02-07 20:56:39[I] cmd [3105] end...[0]
+02-07 20:56:39[I] communicate end 0 / length : 0
+02-07 21:12:45[I] communicate start cmd:0x3105, length:140
+02-07 21:12:45[D] this request is from /system/bin/keystore
+02-07 21:12:45[I] cmd [3105] start...
+02-07 21:12:45[I] cmd [3105] end...[0]
+02-07 21:12:45[I] communicate end 0 / length : 0
+02-07 21:27:27[I] communicate start cmd:0x3105, length:140
+02-07 21:27:27[D] this request is from /system/bin/keystore
+02-07 21:27:27[I] cmd [3105] start...
+02-07 21:27:27[I] cmd [3105] end...[0]
+02-07 21:27:27[I] communicate end 0 / length : 0
+02-07 21:54:00[I] communicate start cmd:0x3105, length:140
+02-07 21:54:00[D] this request is from /system/bin/keystore
+02-07 21:54:00[I] cmd [3105] start...
+02-07 21:54:00[I] cmd [3105] end...[0]
+02-07 21:54:00[I] communicate end 0 / length : 0
+02-07 22:12:39[I] communicate start cmd:0x3105, length:140
+02-07 22:12:39[D] this request is from /system/bin/keystore
+02-07 22:12:39[I] cmd [3105] start...
+02-07 22:12:39[I] cmd [3105] end...[0]
+02-07 22:12:39[I] communicate end 0 / length : 0
+02-07 22:23:18[I] communicate start cmd:0x3105, length:140
+02-07 22:23:18[D] this request is from /system/bin/keystore
+02-07 22:23:18[I] cmd [3105] start...
+02-07 22:23:18[I] cmd [3105] end...[0]
+02-07 22:23:18[I] communicate end 0 / length : 0
+02-07 22:54:36[I] communicate start cmd:0x3105, length:140
+02-07 22:54:36[D] this request is from /system/bin/keystore
+02-07 22:54:36[I] cmd [3105] start...
+02-07 22:54:36[I] cmd [3105] end...[0]
+02-07 22:54:36[I] communicate end 0 / length : 0
+02-07 23:12:45[I] communicate start cmd:0x3105, length:140
+02-07 23:12:45[D] this request is from /system/bin/keystore
+02-07 23:12:45[I] cmd [3105] start...
+02-07 23:12:45[I] cmd [3105] end...[0]
+02-07 23:12:45[I] communicate end 0 / length : 0
+02-07 23:27:22[I] communicate start cmd:0x3105, length:140
+02-07 23:27:22[D] this request is from /system/bin/keystore
+02-07 23:27:22[I] cmd [3105] start...
+02-07 23:27:22[I] cmd [3105] end...[0]
+02-07 23:27:22[I] communicate end 0 / length : 0
+02-07 23:55:18[I] communicate start cmd:0x3105, length:140
+02-07 23:55:18[D] this request is from /system/bin/keystore
+02-07 23:55:18[I] cmd [3105] start...
+02-07 23:55:18[I] cmd [3105] end...[0]
+02-07 23:55:18[I] communicate end 0 / length : 0
+02-08 00:12:50[I] communicate start cmd:0x3105, length:140
+02-08 00:12:50[D] this request is from /system/bin/keystore
+02-08 00:12:50[I] cmd [3105] start...
+02-08 00:12:50[I] cmd [3105] end...[0]
+02-08 00:12:50[I] communicate end 0 / length : 0
+02-08 00:30:03[I] communicate start cmd:0x3105, length:140
+02-08 00:30:03[D] this request is from /system/bin/keystore
+02-08 00:30:03[I] cmd [3105] start...
+02-08 00:30:03[I] cmd [3105] end...[0]
+02-08 00:30:03[I] communicate end 0 / length : 0
+02-08 00:41:30[I] communicate start cmd:0x3105, length:140
+02-08 00:41:30[D] this request is from /system/bin/keystore
+02-08 00:41:30[I] cmd [3105] start...
+02-08 00:41:30[I] cmd [3105] end...[0]
+02-08 00:41:30[I] communicate end 0 / length : 0
+02-08 01:00:52[I] communicate start cmd:0x3105, length:140
+02-08 01:00:52[D] this request is from /system/bin/keystore
+02-08 01:00:52[I] cmd [3105] start...
+02-08 01:00:52[I] cmd [3105] end...[0]
+02-08 01:00:52[I] communicate end 0 / length : 0
+02-08 01:13:06[I] communicate start cmd:0x3105, length:140
+02-08 01:13:06[D] this request is from /system/bin/keystore
+02-08 01:13:06[I] cmd [3105] start...
+02-08 01:13:06[I] cmd [3105] end...[0]
+02-08 01:13:06[I] communicate end 0 / length : 0
+02-08 01:24:39[I] communicate start cmd:0x3105, length:140
+02-08 01:24:39[D] this request is from /system/bin/keystore
+02-08 01:24:39[I] cmd [3105] start...
+02-08 01:24:39[I] cmd [3105] end...[0]
+02-08 01:24:39[I] communicate end 0 / length : 0
+02-08 01:35:43[I] communicate start cmd:0x3105, length:140
+02-08 01:35:43[D] this request is from /system/bin/keystore
+02-08 01:35:43[I] cmd [3105] start...
+02-08 01:35:43[I] cmd [3105] end...[0]
+02-08 01:35:43[I] communicate end 0 / length : 0
+02-08 01:55:28[I] communicate start cmd:0x3105, length:140
+02-08 01:55:28[D] this request is from /system/bin/keystore
+02-08 01:55:28[I] cmd [3105] start...
+02-08 01:55:28[I] cmd [3105] end...[0]
+02-08 01:55:28[I] communicate end 0 / length : 0
+02-08 02:13:29[I] communicate start cmd:0x3105, length:140
+02-08 02:13:29[D] this request is from /system/bin/keystore
+02-08 02:13:29[I] cmd [3105] start...
+02-08 02:13:29[I] cmd [3105] end...[0]
+02-08 02:13:29[I] communicate end 0 / length : 0
+02-08 02:23:55[I] communicate start cmd:0x3105, length:140
+02-08 02:23:55[D] this request is from /system/bin/keystore
+02-08 02:23:55[I] cmd [3105] start...
+02-08 02:23:55[I] cmd [3105] end...[0]
+02-08 02:23:55[I] communicate end 0 / length : 0
+02-08 02:36:56[I] communicate start cmd:0x3105, length:140
+02-08 02:36:56[D] this request is from /system/bin/keystore
+02-08 02:36:56[I] cmd [3105] start...
+02-08 02:36:56[I] cmd [3105] end...[0]
+02-08 02:36:56[I] communicate end 0 / length : 0
+02-08 03:09:27[I] communicate start cmd:0x3105, length:140
+02-08 03:09:27[D] this request is from /system/bin/keystore
+02-08 03:09:27[I] cmd [3105] start...
+02-08 03:09:27[I] cmd [3105] end...[0]
+02-08 03:09:27[I] communicate end 0 / length : 0
+02-08 03:24:11[I] communicate start cmd:0x3105, length:140
+02-08 03:24:11[D] this request is from /system/bin/keystore
+02-08 03:24:11[I] cmd [3105] start...
+02-08 03:24:11[I] cmd [3105] end...[0]
+02-08 03:24:11[I] communicate end 0 / length : 0
+02-08 03:42:46[I] communicate start cmd:0x3105, length:140
+02-08 03:42:46[D] this request is from /system/bin/keystore
+02-08 03:42:46[I] cmd [3105] start...
+02-08 03:42:46[I] cmd [3105] end...[0]
+02-08 03:42:46[I] communicate end 0 / length : 0
+02-08 04:10:19[I] communicate start cmd:0x3105, length:140
+02-08 04:10:19[D] this request is from /system/bin/keystore
+02-08 04:10:19[I] cmd [3105] start...
+02-08 04:10:19[I] cmd [3105] end...[0]
+02-08 04:10:19[I] communicate end 0 / length : 0
+02-08 04:23:49[I] communicate start cmd:0x3105, length:140
+02-08 04:23:49[D] this request is from /system/bin/keystore
+02-08 04:23:49[I] cmd [3105] start...
+02-08 04:23:49[I] cmd [3105] end...[0]
+02-08 04:23:49[I] communicate end 0 / length : 0
+02-08 05:07:28[I] communicate start cmd:0x3105, length:140
+02-08 05:07:28[D] this request is from /system/bin/keystore
+02-08 05:07:28[I] cmd [3105] start...
+02-08 05:07:28[I] cmd [3105] end...[0]
+02-08 05:07:28[I] communicate end 0 / length : 0
+02-08 05:26:58[I] communicate start cmd:0x3105, length:140
+02-08 05:26:58[D] this request is from /system/bin/keystore
+02-08 05:26:58[I] cmd [3105] start...
+02-08 05:26:58[I] cmd [3105] end...[0]
+02-08 05:26:58[I] communicate end 0 / length : 0
+02-08 05:37:29[I] communicate start cmd:0x3105, length:140
+02-08 05:37:29[D] this request is from /system/bin/keystore
+02-08 05:37:29[I] cmd [3105] start...
+02-08 05:37:29[I] cmd [3105] end...[0]
+02-08 05:37:29[I] communicate end 0 / length : 0
+02-08 06:07:34[I] communicate start cmd:0x3105, length:140
+02-08 06:07:34[D] this request is from /system/bin/keystore
+02-08 06:07:34[I] cmd [3105] start...
+02-08 06:07:34[I] cmd [3105] end...[0]
+02-08 06:07:34[I] communicate end 0 / length : 0
+02-08 06:27:46[I] communicate start cmd:0x3105, length:140
+02-08 06:27:46[D] this request is from /system/bin/keystore
+02-08 06:27:46[I] cmd [3105] start...
+02-08 06:27:46[I] cmd [3105] end...[0]
+02-08 06:27:46[I] communicate end 0 / length : 0
+02-08 06:51:32[I] communicate start cmd:0x3105, length:140
+02-08 06:51:32[D] this request is from /system/bin/keystore
+02-08 06:51:32[I] cmd [3105] start...
+02-08 06:51:32[I] cmd [3105] end...[0]
+02-08 06:51:32[I] communicate end 0 / length : 0
+02-08 07:07:40[I] communicate start cmd:0x3105, length:140
+02-08 07:07:40[D] this request is from /system/bin/keystore
+02-08 07:07:40[I] cmd [3105] start...
+02-08 07:07:41[I] cmd [3105] end...[0]
+02-08 07:07:41[I] communicate end 0 / length : 0
+02-08 07:24:31[I] communicate start cmd:0x3105, length:140
+02-08 07:24:31[D] this request is from /system/bin/keystore
+02-08 07:24:31[I] cmd [3105] start...
+02-08 07:24:31[I] cmd [3105] end...[0]
+02-08 07:24:31[I] communicate end 0 / length : 0
+02-08 07:42:29[I] communicate start cmd:0x3105, length:140
+02-08 07:42:29[D] this request is from /system/bin/keystore
+02-08 07:42:29[I] cmd [3105] start...
+02-08 07:42:29[I] cmd [3105] end...[0]
+02-08 07:42:29[I] communicate end 0 / length : 0
+02-08 08:05:31[I] communicate start cmd:0x3105, length:140
+02-08 08:05:31[D] this request is from /system/bin/keystore
+02-08 08:05:31[I] cmd [3105] start...
+02-08 08:05:31[I] cmd [3105] end...[0]
+02-08 08:05:31[I] communicate end 0 / length : 0
+02-08 08:16:17[I] communicate start cmd:0x3105, length:140
+02-08 08:16:17[D] this request is from /system/bin/keystore
+02-08 08:16:17[I] cmd [3105] start...
+02-08 08:16:17[I] cmd [3105] end...[0]
+02-08 08:16:17[I] communicate end 0 / length : 0
+02-08 08:39:13[I] communicate start cmd:0x3105, length:140
+02-08 08:39:13[D] this request is from /system/bin/keystore
+02-08 08:39:13[I] cmd [3105] start...
+02-08 08:39:13[I] cmd [3105] end...[0]
+02-08 08:39:13[I] communicate end 0 / length : 0
+02-08 09:07:19[I] communicate start cmd:0x3105, length:140
+02-08 09:07:19[D] this request is from /system/bin/keystore
+02-08 09:07:19[I] cmd [3105] start...
+02-08 09:07:19[I] cmd [3105] end...[0]
+02-08 09:07:19[I] communicate end 0 / length : 0
+02-08 09:29:37[I] communicate start cmd:0x3105, length:140
+02-08 09:29:37[D] this request is from /system/bin/keystore
+02-08 09:29:37[I] cmd [3105] start...
+02-08 09:29:37[I] cmd [3105] end...[0]
+02-08 09:29:37[I] communicate end 0 / length : 0
+02-08 10:08:36[I] communicate start cmd:0x3105, length:140
+02-08 10:08:36[D] this request is from /system/bin/keystore
+02-08 10:08:36[I] cmd [3105] start...
+02-08 10:08:36[I] cmd [3105] end...[0]
+02-08 10:08:36[I] communicate end 0 / length : 0
+02-08 10:25:28[I] communicate start cmd:0x3105, length:140
+02-08 10:25:28[D] this request is from /system/bin/keystore
+02-08 10:25:28[I] cmd [3105] start...
+02-08 10:25:28[I] cmd [3105] end...[0]
+02-08 10:25:28[I] communicate end 0 / length : 0
+02-08 10:55:16[I] communicate start cmd:0x3105, length:140
+02-08 10:55:16[D] this request is from /system/bin/keystore
+02-08 10:55:16[I] cmd [3105] start...
+02-08 10:55:16[I] cmd [3105] end...[0]
+02-08 10:55:16[I] communicate end 0 / length : 0
+02-08 11:08:52[I] communicate start cmd:0x3105, length:140
+02-08 11:08:52[D] this request is from /system/bin/keystore
+02-08 11:08:52[I] cmd [3105] start...
+02-08 11:08:52[I] cmd [3105] end...[0]
+02-08 11:08:52[I] communicate end 0 / length : 0
+02-08 11:25:26[I] communicate start cmd:0x3105, length:140
+02-08 11:25:26[D] this request is from /system/bin/keystore
+02-08 11:25:26[I] cmd [3105] start...
+02-08 11:25:26[I] cmd [3105] end...[0]
+02-08 11:25:26[I] communicate end 0 / length : 0
+02-08 11:38:26[I] communicate start cmd:0x3105, length:140
+02-08 11:38:26[D] this request is from /system/bin/keystore
+02-08 11:38:26[I] cmd [3105] start...
+02-08 11:38:26[I] cmd [3105] end...[0]
+02-08 11:38:26[I] communicate end 0 / length : 0
+02-08 11:53:42[I] communicate start cmd:0x3105, length:140
+02-08 11:53:42[D] this request is from /system/bin/keystore
+02-08 11:53:42[I] cmd [3105] start...
+02-08 11:53:42[I] cmd [3105] end...[0]
+02-08 11:53:42[I] communicate end 0 / length : 0
+02-08 12:08:42[I] communicate start cmd:0x3105, length:140
+02-08 12:08:42[D] this request is from /system/bin/keystore
+02-08 12:08:42[I] cmd [3105] start...
+02-08 12:08:42[I] cmd [3105] end...[0]
+02-08 12:08:42[I] communicate end 0 / length : 0
+02-08 12:37:46[I] communicate start cmd:0x3105, length:140
+02-08 12:37:46[D] this request is from /system/bin/keystore
+02-08 12:37:46[I] cmd [3105] start...
+02-08 12:37:46[I] cmd [3105] end...[0]
+02-08 12:37:46[I] communicate end 0 / length : 0
+02-08 12:54:02[I] communicate start cmd:0x3105, length:140
+02-08 12:54:02[D] this request is from /system/bin/keystore
+02-08 12:54:02[I] cmd [3105] start...
+02-08 12:54:02[I] cmd [3105] end...[0]
+02-08 12:54:02[I] communicate end 0 / length : 0
+02-08 13:08:57[I] communicate start cmd:0x3105, length:140
+02-08 13:08:57[D] this request is from /system/bin/keystore
+02-08 13:08:57[I] cmd [3105] start...
+02-08 13:08:57[I] cmd [3105] end...[0]
+02-08 13:08:57[I] communicate end 0 / length : 0
+02-08 13:25:50[I] communicate start cmd:0x3105, length:140
+02-08 13:25:50[D] this request is from /system/bin/keystore
+02-08 13:25:50[I] cmd [3105] start...
+02-08 13:25:50[I] cmd [3105] end...[0]
+02-08 13:25:50[I] communicate end 0 / length : 0
+02-08 13:30:51[I] communicate start cmd:0x3311, length:64
+02-08 13:30:51[D] this request is from system_server
+02-08 13:30:51[I] cmd [3311] start...
+02-08 13:30:51[E] SecnvmPowerOn isn't supported.
+02-08 13:30:51[I] cmd [3311] end...[-16777217]
+02-08 13:30:51[I] communicate end -16777217 / length : 0
+02-08 13:36:42[I] communicate start cmd:0x3311, length:64
+02-08 13:36:42[D] this request is from system_server
+02-08 13:36:42[I] cmd [3311] start...
+02-08 13:36:42[E] SecnvmPowerOn isn't supported.
+02-08 13:36:42[I] cmd [3311] end...[-16777217]
+02-08 13:36:42[I] communicate end -16777217 / length : 0
+02-08 13:36:49[I] communicate start cmd:0x3105, length:140
+02-08 13:36:49[D] this request is from /system/bin/keystore
+02-08 13:36:49[I] cmd [3105] start...
+02-08 13:36:49[I] cmd [3105] end...[0]
+02-08 13:36:49[I] communicate end 0 / length : 0
+02-08 13:42:23[I] communicate start cmd:0x3311, length:64
+02-08 13:42:23[D] this request is from system_server
+02-08 13:42:23[I] cmd [3311] start...
+02-08 13:42:23[E] SecnvmPowerOn isn't supported.
+02-08 13:42:23[I] cmd [3311] end...[-16777217]
+02-08 13:42:23[I] communicate end -16777217 / length : 0
+02-08 13:44:20[I] communicate start cmd:0x3311, length:64
+02-08 13:44:20[D] this request is from system_server
+02-08 13:44:20[I] cmd [3311] start...
+02-08 13:44:20[E] SecnvmPowerOn isn't supported.
+02-08 13:44:20[I] cmd [3311] end...[-16777217]
+02-08 13:44:20[I] communicate end -16777217 / length : 0
+02-08 13:58:16[I] communicate start cmd:0x3105, length:140
+02-08 13:58:16[D] this request is from /system/bin/keystore
+02-08 13:58:16[I] cmd [3105] start...
+02-08 13:58:16[I] cmd [3105] end...[0]
+02-08 13:58:16[I] communicate end 0 / length : 0
+02-08 14:09:26[I] communicate start cmd:0x3311, length:64
+02-08 14:09:26[D] this request is from system_server
+02-08 14:09:26[I] cmd [3311] start...
+02-08 14:09:26[E] SecnvmPowerOn isn't supported.
+02-08 14:09:26[I] cmd [3311] end...[-16777217]
+02-08 14:09:26[I] communicate end -16777217 / length : 0
+02-08 14:13:54[I] communicate start cmd:0x3105, length:140
+02-08 14:13:54[D] this request is from /system/bin/keystore
+02-08 14:13:54[I] cmd [3105] start...
+02-08 14:13:54[I] cmd [3105] end...[0]
+02-08 14:13:54[I] communicate end 0 / length : 0
+02-08 14:39:26[I] communicate start cmd:0x3105, length:140
+02-08 14:39:26[D] this request is from /system/bin/keystore
+02-08 14:39:26[I] cmd [3105] start...
+02-08 14:39:26[I] cmd [3105] end...[0]
+02-08 14:39:26[I] communicate end 0 / length : 0
+02-08 14:43:18[I] communicate start cmd:0x3311, length:64
+02-08 14:43:18[D] this request is from system_server
+02-08 14:43:18[I] cmd [3311] start...
+02-08 14:43:18[E] SecnvmPowerOn isn't supported.
+02-08 14:43:18[I] cmd [3311] end...[-16777217]
+02-08 14:43:18[I] communicate end -16777217 / length : 0
+02-08 15:00:01[I] communicate start cmd:0x3105, length:140
+02-08 15:00:01[D] this request is from /system/bin/keystore
+02-08 15:00:01[I] cmd [3105] start...
+02-08 15:00:01[I] cmd [3105] end...[0]
+02-08 15:00:01[I] communicate end 0 / length : 0
+02-08 15:11:30[I] communicate start cmd:0x3105, length:140
+02-08 15:11:30[D] this request is from /system/bin/keystore
+02-08 15:11:30[I] cmd [3105] start...
+02-08 15:11:31[I] cmd [3105] end...[0]
+02-08 15:11:31[I] communicate end 0 / length : 0
+02-08 15:32:55[I] communicate start cmd:0x3311, length:64
+02-08 15:32:55[D] this request is from system_server
+02-08 15:32:55[I] cmd [3311] start...
+02-08 15:32:55[E] SecnvmPowerOn isn't supported.
+02-08 15:32:55[I] cmd [3311] end...[-16777217]
+02-08 15:32:55[I] communicate end -16777217 / length : 0
+02-08 15:34:22[I] communicate start cmd:0x3105, length:140
+02-08 15:34:22[D] this request is from /system/bin/keystore
+02-08 15:34:22[I] cmd [3105] start...
+02-08 15:34:22[I] cmd [3105] end...[0]
+02-08 15:34:22[I] communicate end 0 / length : 0
+02-08 15:40:04[I] communicate start cmd:0x3105, length:140
+02-08 15:40:04[D] this request is from /system/bin/keystore
+02-08 15:40:04[I] cmd [3105] start...
+02-08 15:40:04[I] cmd [3105] end...[0]
+02-08 15:40:04[I] communicate end 0 / length : 0
+02-08 16:27:11[I] communicate start cmd:0x3311, length:64
+02-08 16:27:11[D] this request is from system_server
+02-08 16:27:11[I] cmd [3311] start...
+02-08 16:27:11[E] SecnvmPowerOn isn't supported.
+02-08 16:27:11[I] cmd [3311] end...[-16777217]
+02-08 16:27:11[I] communicate end -16777217 / length : 0
+02-08 19:02:14[I] communicate start cmd:0x3311, length:64
+02-08 19:02:14[D] this request is from system_server
+02-08 19:02:14[I] cmd [3311] start...
+02-08 19:02:14[E] SecnvmPowerOn isn't supported.
+02-08 19:02:14[I] cmd [3311] end...[-16777217]
+02-08 19:02:14[I] communicate end -16777217 / length : 0
+02-08 19:20:09[I] communicate start cmd:0x3311, length:64
+02-08 19:20:09[D] this request is from system_server
+02-08 19:20:09[I] cmd [3311] start...
+02-08 19:20:09[E] SecnvmPowerOn isn't supported.
+02-08 19:20:09[I] cmd [3311] end...[-16777217]
+02-08 19:24:55[I] communicate start cmd:0x3301, length:64
+02-08 19:24:55[D] this request is from system_server
+02-08 19:24:55[I] cmd [3301] start...
+02-08 19:24:55[E] GetBigdataMsg isn't supported.
+02-08 19:24:55[I] cmd [3301] end...[-16777217]
+02-08 19:24:55[I] communicate end -16777217 / length : 0
+02-08 19:25:01[I] communicate start cmd:0x3311, length:64
+02-08 19:25:01[D] this request is from system_server
+02-08 19:25:01[I] cmd [3311] start...
+02-08 19:25:01[E] SecnvmPowerOn isn't supported.
+02-08 19:25:01[I] cmd [3311] end...[-16777217]
+02-08 19:25:01[I] communicate end -16777217 / length : 0
+02-08 19:26:18[I] communicate start cmd:0x3105, length:140
+02-08 19:26:18[D] this request is from /system/bin/keystore
+02-08 19:26:18[I] cmd [3105] start...
+02-08 19:26:18[I] cmd [3105] end...[0]
+02-08 19:26:18[I] communicate end 0 / length : 0
+02-08 21:27:58[I] communicate start cmd:0x3311, length:64
+02-08 21:27:58[D] this request is from system_server
+02-08 21:27:58[I] cmd [3311] start...
+02-08 21:27:58[E] SecnvmPowerOn isn't supported.
+02-08 21:27:58[I] cmd [3311] end...[-16777217]
+02-08 21:27:58[I] communicate end -16777217 / length : 0
+02-08 21:29:01[I] communicate start cmd:0x3105, length:140
+02-08 21:29:01[D] this request is from /system/bin/keystore
+02-08 21:29:01[I] cmd [3105] start...
+02-08 21:29:01[I] cmd [3105] end...[0]
+02-08 21:32:12[I] communicate start cmd:0x3301, length:64
+02-08 21:32:12[D] this request is from system_server
+02-08 21:32:12[I] cmd [3301] start...
+02-08 21:32:12[E] GetBigdataMsg isn't supported.
+02-08 21:32:12[I] cmd [3301] end...[-16777217]
+02-08 21:32:12[I] communicate end -16777217 / length : 0
+02-08 21:39:42[I] communicate start cmd:0x3105, length:140
+02-08 21:39:42[D] this request is from /system/bin/keystore
+02-08 21:39:42[I] cmd [3105] start...
+02-08 21:39:42[I] cmd [3105] end...[0]
+02-08 21:39:42[I] communicate end 0 / length : 0
+02-08 21:58:01[I] communicate start cmd:0x3105, length:140
+02-08 21:58:01[D] this request is from /system/bin/keystore
+02-08 21:58:01[I] cmd [3105] start...
+02-08 21:58:01[I] cmd [3105] end...[0]
+02-08 21:58:01[I] communicate end 0 / length : 0
+02-08 22:14:45[I] communicate start cmd:0x3105, length:140
+02-08 22:14:45[D] this request is from /system/bin/keystore
+02-08 22:14:45[I] cmd [3105] start...
+02-08 22:14:45[I] cmd [3105] end...[0]
+02-08 22:14:45[I] communicate end 0 / length : 0
+02-08 22:19:58[I] communicate start cmd:0x3311, length:64
+02-08 22:19:58[D] this request is from system_server
+02-08 22:19:58[I] cmd [3311] start...
+02-08 22:19:58[E] SecnvmPowerOn isn't supported.
+02-08 22:19:58[I] cmd [3311] end...[-16777217]
+02-08 22:19:58[I] communicate end -16777217 / length : 0
+02-08 22:20:31[I] communicate start cmd:0x3308, length:64
+02-08 22:20:31[D] this request is from system_server
+02-08 22:20:31[I] cmd [3308] start...
+02-08 22:20:31[E] Terminate isn't supported.
+02-08 22:20:31[I] cmd [3308] end...[-16777217]
+02-08 22:22:27[I] communicate start cmd:0x3301, length:64
+02-08 22:22:27[D] this request is from system_server
+02-08 22:22:27[I] cmd [3301] start...
+02-08 22:22:27[E] GetBigdataMsg isn't supported.
+02-08 22:22:27[I] cmd [3301] end...[-16777217]
+02-08 22:22:27[I] communicate end -16777217 / length : 0
+02-08 22:23:17[I] communicate start cmd:0x3311, length:64
+02-08 22:23:17[D] this request is from system_server
+02-08 22:23:17[I] cmd [3311] start...
+02-08 22:23:17[E] SecnvmPowerOn isn't supported.
+02-08 22:23:17[I] cmd [3311] end...[-16777217]
+02-08 22:23:17[I] communicate end -16777217 / length : 0
+02-08 22:25:22[I] communicate start cmd:0x3105, length:140
+02-08 22:25:22[D] this request is from /system/bin/keystore
+02-08 22:25:22[I] cmd [3105] start...
+02-08 22:25:22[I] cmd [3105] end...[0]
+02-08 22:25:22[I] communicate end 0 / length : 0
+02-08 22:33:42[I] communicate start cmd:0x3105, length:140
+02-08 22:33:42[D] this request is from /system/bin/keystore
+02-08 22:33:42[I] cmd [3105] start...
+02-08 22:33:42[I] cmd [3105] end...[0]
+02-08 22:33:42[I] communicate end 0 / length : 0
+02-08 22:34:12[I] communicate start cmd:0x3105, length:140
+02-08 22:34:12[D] this request is from /system/bin/keystore
+02-08 22:34:12[I] cmd [3105] start...
+02-08 22:34:12[I] cmd [3105] end...[0]
+02-08 22:34:12[I] communicate end 0 / length : 0
+02-08 22:34:27[I] communicate start cmd:0x3105, length:140
+02-08 22:34:27[D] this request is from /system/bin/keystore
+02-08 22:34:27[I] cmd [3105] start...
+02-08 22:34:27[I] cmd [3105] end...[0]
+02-08 22:34:27[I] communicate end 0 / length : 0
+02-08 22:34:49[I] communicate start cmd:0x2041, length:64
+02-08 22:34:49[D] this request is from system_server
+02-08 22:34:49[I] cmd [2041] start...
+02-08 22:34:49[I] DRK file exists. 2557
+02-08 22:34:49[I] cmd [2041] end...[0]
+02-08 22:34:49[I] communicate end 0 / length : 0
+02-08 22:34:49[I] communicate start cmd:0x2031, length:148
+02-08 22:34:49[D] this request is from system_server
+02-08 22:34:49[I] cmd [2031] start...
+02-08 22:34:49[I] DRK file exists. 2557
+02-08 22:34:49[E] Carrier length is not matched.
+02-08 22:34:49[I] IMEI supported model !!!
+02-08 22:34:49[I] receiveNotifyCB end
+02-08 22:34:49[E] Carrier length is not matched.
+02-08 22:34:49[I] IMEI supported model !!!
+02-08 22:34:49[I] receiveNotifyCB end
+02-08 22:34:49[I] DRK file exists. 2557
+02-08 22:34:51[I] cmd [2031] end...[0]
+02-08 22:34:51[I] communicate end 0 / length : 3940
+02-08 22:34:51[I] communicate start cmd:0x3105, length:135
+02-08 22:34:51[D] this request is from system_server
+02-08 22:34:51[I] cmd [3105] start...
+02-08 22:34:51[I] cmd [3105] end...[0]
+02-08 22:34:51[I] communicate end 0 / length : 0
+02-08 22:34:51[I] communicate start cmd:0x2032, length:64
+02-08 22:34:51[D] this request is from system_server
+02-08 22:34:51[I] cmd [2032] start...
+02-08 22:34:51[I] cmd [2032] end...[0]
+02-08 22:34:51[I] communicate end 0 / length : 0
+02-08 22:41:28[I] communicate start cmd:0x3308, length:64
+02-08 22:41:28[D] this request is from system_server
+02-08 22:41:28[I] cmd [3308] start...
+02-08 22:41:28[E] Terminate isn't supported.
+02-08 22:41:28[I] cmd [3308] end...[-16777217]
+02-08 22:42:19[I] communicate start cmd:0x3301, length:64
+02-08 22:42:19[D] this request is from system_server
+02-08 22:42:19[I] cmd [3301] start...
+02-08 22:42:19[E] GetBigdataMsg isn't supported.
+02-08 22:42:19[I] cmd [3301] end...[-16777217]
+02-08 22:42:19[I] communicate end -16777217 / length : 0
+02-08 22:42:28[I] communicate start cmd:0x3311, length:64
+02-08 22:42:28[D] this request is from system_server
+02-08 22:42:28[I] cmd [3311] start...
+02-08 22:42:28[E] SecnvmPowerOn isn't supported.
+02-08 22:42:28[I] cmd [3311] end...[-16777217]
+02-08 22:42:28[I] communicate end -16777217 / length : 0
+02-08 23:59:42[I] communicate start cmd:0x3311, length:64
+02-08 23:59:42[D] this request is from system_server
+02-08 23:59:42[I] cmd [3311] start...
+02-08 23:59:42[E] SecnvmPowerOn isn't supported.
+02-08 23:59:42[I] cmd [3311] end...[-16777217]
+02-08 23:59:43[I] communicate end -16777217 / length : 0
+02-09 00:46:15[I] communicate start cmd:0x3311, length:64
+02-09 00:46:15[D] this request is from system_server
+02-09 00:46:15[I] cmd [3311] start...
+02-09 00:46:15[E] SecnvmPowerOn isn't supported.
+02-09 00:46:15[I] cmd [3311] end...[-16777217]
+02-09 00:46:15[I] communicate end -16777217 / length : 0
+02-09 03:20:48[I] communicate start cmd:0x3311, length:64
+02-09 03:20:48[D] this request is from system_server
+02-09 03:20:48[I] cmd [3311] start...
+02-09 03:20:48[E] SecnvmPowerOn isn't supported.
+02-09 03:20:48[I] cmd [3311] end...[-16777217]
+02-09 03:20:48[I] communicate end -16777217 / length : 0
+02-09 03:37:45[I] communicate start cmd:0x3311, length:64
+02-09 03:37:45[D] this request is from system_server
+02-09 03:37:45[I] cmd [3311] start...
+02-09 03:37:45[E] SecnvmPowerOn isn't supported.
+02-09 03:37:45[I] cmd [3311] end...[-16777217]
+02-09 03:37:45[I] communicate end -16777217 / length : 0
+02-09 05:38:59[I] communicate start cmd:0x3311, length:64
+02-09 05:38:59[D] this request is from system_server
+02-09 05:38:59[I] cmd [3311] start...
+02-09 05:38:59[E] SecnvmPowerOn isn't supported.
+02-09 05:38:59[I] cmd [3311] end...[-16777217]
+02-09 05:38:59[I] communicate end -16777217 / length : 0
+02-09 06:34:12[I] communicate start cmd:0x3311, length:64
+02-09 06:34:12[D] this request is from system_server
+02-09 06:34:12[I] cmd [3311] start...
+02-09 06:34:12[E] SecnvmPowerOn isn't supported.
+02-09 06:34:12[I] cmd [3311] end...[-16777217]
+02-09 06:34:12[I] communicate end -16777217 / length : 0
+02-09 06:39:26[I] communicate start cmd:0x3311, length:64
+02-09 06:39:26[D] this request is from system_server
+02-09 06:39:26[I] cmd [3311] start...
+02-09 06:39:26[E] SecnvmPowerOn isn't supported.
+02-09 06:39:26[I] cmd [3311] end...[-16777217]
+02-09 06:39:26[I] communicate end -16777217 / length : 0
+02-09 06:41:00[I] communicate start cmd:0x3308, length:64
+02-09 06:41:00[D] this request is from system_server
+02-09 06:41:00[I] cmd [3308] start...
+02-09 06:41:00[E] Terminate isn't supported.
+02-09 06:41:00[I] cmd [3308] end...[-16777217]
+02-09 06:42:31[I] communicate start cmd:0x3301, length:64
+02-09 06:42:31[D] this request is from system_server
+02-09 06:42:31[I] cmd [3301] start...
+02-09 06:42:31[E] GetBigdataMsg isn't supported.
+02-09 06:42:31[I] cmd [3301] end...[-16777217]
+02-09 06:42:31[I] communicate end -16777217 / length : 0
+02-09 08:19:15[I] communicate start cmd:0x3311, length:64
+02-09 08:19:15[D] this request is from system_server
+02-09 08:19:15[I] cmd [3311] start...
+02-09 08:19:15[E] SecnvmPowerOn isn't supported.
+02-09 08:19:15[I] cmd [3311] end...[-16777217]
+02-09 08:19:15[I] communicate end -16777217 / length : 0
+02-09 09:04:17[I] communicate start cmd:0x3308, length:64
+02-09 09:04:17[D] this request is from system_server
+02-09 09:04:17[I] cmd [3308] start...
+02-09 09:04:17[E] Terminate isn't supported.
+02-09 09:04:17[I] cmd [3308] end...[-16777217]
+02-09 09:05:30[I] communicate start cmd:0x3301, length:64
+02-09 09:05:30[D] this request is from system_server
+02-09 09:05:30[I] cmd [3301] start...
+02-09 09:05:30[E] GetBigdataMsg isn't supported.
+02-09 09:05:30[I] cmd [3301] end...[-16777217]
+02-09 10:14:47[I] communicate start cmd:0x3301, length:64
+02-09 10:14:47[D] this request is from system_server
+02-09 10:14:47[I] cmd [3301] start...
+02-09 10:14:47[E] GetBigdataMsg isn't supported.
+02-09 10:14:47[I] cmd [3301] end...[-16777217]
+02-09 10:14:47[I] communicate end -16777217 / length : 0
+02-09 11:13:37[I] communicate start cmd:0x3311, length:64
+02-09 11:13:37[D] this request is from system_server
+02-09 11:13:37[I] cmd [3311] start...
+02-09 11:13:37[E] SecnvmPowerOn isn't supported.
+02-09 11:13:37[I] cmd [3311] end...[-16777217]
+02-09 11:13:37[I] communicate end -16777217 / length : 0
+02-09 11:18:09[I] communicate start cmd:0x3311, length:64
+02-09 11:18:09[D] this request is from system_server
+02-09 11:18:09[I] cmd [3311] start...
+02-09 11:18:09[E] SecnvmPowerOn isn't supported.
+02-09 11:18:09[I] cmd [3311] end...[-16777217]
+02-09 11:18:09[I] communicate end -16777217 / length : 0
+02-09 11:38:54[I] communicate start cmd:0x3311, length:64
+02-09 11:38:54[D] this request is from system_server
+02-09 11:38:54[I] cmd [3311] start...
+02-09 11:38:54[E] SecnvmPowerOn isn't supported.
+02-09 11:38:54[I] cmd [3311] end...[-16777217]
+02-09 11:38:54[I] communicate end -16777217 / length : 0
+02-09 11:44:11[I] communicate start cmd:0x3311, length:64
+02-09 11:44:11[D] this request is from system_server
+02-09 11:44:11[I] cmd [3311] start...
+02-09 11:44:11[E] SecnvmPowerOn isn't supported.
+02-09 11:44:11[I] cmd [3311] end...[-16777217]
+02-09 11:44:11[I] communicate end -16777217 / length : 0
+02-09 11:53:12[I] communicate start cmd:0x3311, length:64
+02-09 11:53:12[D] this request is from system_server
+02-09 11:53:12[I] cmd [3311] start...
+02-09 11:53:12[E] SecnvmPowerOn isn't supported.
+02-09 11:53:12[I] cmd [3311] end...[-16777217]
+02-09 11:53:12[I] communicate end -16777217 / length : 0
+02-09 13:06:07[I] communicate start cmd:0x3311, length:64
+02-09 13:06:07[D] this request is from system_server
+02-09 13:06:07[I] cmd [3311] start...
+02-09 13:06:07[E] SecnvmPowerOn isn't supported.
+02-09 13:06:07[I] cmd [3311] end...[-16777217]
+02-09 13:06:07[I] communicate end -16777217 / length : 0
+02-09 14:07:22[I] communicate start cmd:0x3311, length:64
+02-09 14:07:22[D] this request is from system_server
+02-09 14:07:22[I] cmd [3311] start...
+02-09 14:07:22[E] SecnvmPowerOn isn't supported.
+02-09 14:07:22[I] cmd [3311] end...[-16777217]
+02-09 14:07:22[I] communicate end -16777217 / length : 0
+02-09 14:13:28[I] communicate start cmd:0x3308, length:64
+02-09 14:13:28[D] this request is from system_server
+02-09 14:13:28[I] cmd [3308] start...
+02-09 14:13:28[E] Terminate isn't supported.
+02-09 14:13:28[I] cmd [3308] end...[-16777217]
+02-09 14:14:24[I] communicate start cmd:0x3301, length:64
+02-09 14:14:24[D] this request is from system_server
+02-09 14:14:24[I] cmd [3301] start...
+02-09 14:14:24[E] GetBigdataMsg isn't supported.
+02-09 14:14:24[I] cmd [3301] end...[-16777217]
+02-09 14:14:24[I] communicate end -16777217 / length : 0
+02-09 14:34:50[I] communicate start cmd:0x3311, length:64
+02-09 14:34:50[D] this request is from system_server
+02-09 14:34:50[I] cmd [3311] start...
+02-09 14:34:50[E] SecnvmPowerOn isn't supported.
+02-09 14:34:50[I] cmd [3311] end...[-16777217]
+02-09 14:34:50[I] communicate end -16777217 / length : 0
+02-09 14:39:48[I] communicate start cmd:0x3311, length:64
+02-09 14:39:48[D] this request is from system_server
+02-09 14:39:48[I] cmd [3311] start...
+02-09 14:39:48[E] SecnvmPowerOn isn't supported.
+02-09 14:39:48[I] cmd [3311] end...[-16777217]
+02-09 14:39:48[I] communicate end -16777217 / length : 0
+02-09 15:02:39[I] communicate start cmd:0x3311, length:64
+02-09 15:02:39[D] this request is from system_server
+02-09 15:02:39[I] cmd [3311] start...
+02-09 15:02:39[E] SecnvmPowerOn isn't supported.
+02-09 15:02:39[I] cmd [3311] end...[-16777217]
+02-09 15:03:43[I] communicate start cmd:0x3301, length:64
+02-09 15:03:43[D] this request is from system_server
+02-09 15:03:43[I] cmd [3301] start...
+02-09 15:03:43[E] GetBigdataMsg isn't supported.
+02-09 15:03:43[I] cmd [3301] end...[-16777217]
+02-09 15:03:43[I] communicate end -16777217 / length : 0
+02-09 15:05:29[I] communicate start cmd:0x3311, length:64
+02-09 15:05:29[D] this request is from system_server
+02-09 15:05:29[I] cmd [3311] start...
+02-09 15:05:29[E] SecnvmPowerOn isn't supported.
+02-09 15:05:29[I] cmd [3311] end...[-16777217]
+02-09 15:05:29[I] communicate end -16777217 / length : 0
+02-09 15:06:17[I] communicate start cmd:0x3308, length:64
+02-09 15:06:17[D] this request is from system_server
+02-09 15:06:17[I] cmd [3308] start...
+02-09 15:06:17[E] Terminate isn't supported.
+02-09 15:06:17[I] cmd [3308] end...[-16777217]
+02-09 15:07:20[I] communicate start cmd:0x3301, length:64
+02-09 15:07:20[D] this request is from system_server
+02-09 15:07:20[I] cmd [3301] start...
+02-09 15:07:20[E] GetBigdataMsg isn't supported.
+02-09 15:07:20[I] cmd [3301] end...[-16777217]
+02-09 15:07:20[I] communicate end -16777217 / length : 0
+02-09 17:23:29[I] communicate start cmd:0x3308, length:64
+02-09 17:23:29[D] this request is from system_server
+02-09 17:23:29[I] cmd [3308] start...
+02-09 17:23:29[E] Terminate isn't supported.
+02-09 17:23:29[I] cmd [3308] end...[-16777217]
+02-09 17:24:54[I] communicate start cmd:0x3301, length:64
+02-09 17:24:54[D] this request is from system_server
+02-09 17:24:54[I] cmd [3301] start...
+02-09 17:24:54[E] GetBigdataMsg isn't supported.
+02-09 17:24:54[I] cmd [3301] end...[-16777217]
+02-09 17:24:54[I] communicate end -16777217 / length : 0
+02-09 17:28:03[I] communicate start cmd:0x3311, length:64
+02-09 17:28:03[D] this request is from system_server
+02-09 17:28:03[I] cmd [3311] start...
+02-09 17:28:03[E] SecnvmPowerOn isn't supported.
+02-09 17:28:03[I] cmd [3311] end...[-16777217]
+02-09 17:28:03[I] communicate end -16777217 / length : 0
+02-09 17:28:10[I] communicate start cmd:0x3311, length:64
+02-09 17:28:10[D] this request is from system_server
+02-09 17:28:10[I] cmd [3311] start...
+02-09 17:28:10[E] SecnvmPowerOn isn't supported.
+02-09 17:28:10[I] cmd [3311] end...[-16777217]
+02-09 17:28:10[I] communicate end -16777217 / length : 0
+02-09 17:38:28[I] communicate start cmd:0x3311, length:64
+02-09 17:38:28[D] this request is from system_server
+02-09 17:38:28[I] cmd [3311] start...
+02-09 17:38:28[E] SecnvmPowerOn isn't supported.
+02-09 17:38:28[I] cmd [3311] end...[-16777217]
+02-09 17:38:28[I] communicate end -16777217 / length : 0
+02-09 18:29:40[I] communicate start cmd:0x3311, length:64
+02-09 18:29:40[D] this request is from system_server
+02-09 18:29:40[I] cmd [3311] start...
+02-09 18:29:40[E] SecnvmPowerOn isn't supported.
+02-09 18:29:40[I] cmd [3311] end...[-16777217]
+02-09 18:29:40[I] communicate end -16777217 / length : 0
+02-09 19:16:45[I] communicate start cmd:0x3311, length:64
+02-09 19:16:45[D] this request is from system_server
+02-09 19:16:45[I] cmd [3311] start...
+02-09 19:16:45[E] SecnvmPowerOn isn't supported.
+02-09 19:16:45[I] cmd [3311] end...[-16777217]
+02-09 19:16:45[I] communicate end -16777217 / length : 0
+02-09 20:26:48[I] communicate start cmd:0x3311, length:64
+02-09 20:26:48[D] this request is from system_server
+02-09 20:26:48[I] cmd [3311] start...
+02-09 20:26:48[E] SecnvmPowerOn isn't supported.
+02-09 20:26:48[I] cmd [3311] end...[-16777217]
+02-09 20:26:48[I] communicate end -16777217 / length : 0
+02-09 21:45:41[I] communicate start cmd:0x3311, length:64
+02-09 21:45:41[D] this request is from system_server
+02-09 21:45:41[I] cmd [3311] start...
+02-09 21:45:41[E] SecnvmPowerOn isn't supported.
+02-09 21:45:41[I] cmd [3311] end...[-16777217]
+02-09 21:45:41[I] communicate end -16777217 / length : 0
+02-10 03:12:01[I] communicate start cmd:0x3311, length:64
+02-10 03:12:01[D] this request is from system_server
+02-10 03:12:01[I] cmd [3311] start...
+02-10 03:12:01[E] SecnvmPowerOn isn't supported.
+02-10 03:12:01[I] cmd [3311] end...[-16777217]
+02-10 03:12:01[I] communicate end -16777217 / length : 0
+02-10 03:27:03[I] communicate start cmd:0x3311, length:64
+02-10 03:27:03[D] this request is from system_server
+02-10 03:27:03[I] cmd [3311] start...
+02-10 03:27:03[E] SecnvmPowerOn isn't supported.
+02-10 03:27:03[I] cmd [3311] end...[-16777217]
+02-10 03:27:03[I] communicate end -16777217 / length : 0
+02-10 04:10:03[I] communicate start cmd:0x3311, length:64
+02-10 04:10:03[D] this request is from system_server
+02-10 04:10:03[I] cmd [3311] start...
+02-10 04:10:03[E] SecnvmPowerOn isn't supported.
+02-10 04:10:03[I] cmd [3311] end...[-16777217]
+02-10 04:10:03[I] communicate end -16777217 / length : 0
+02-10 05:09:13[I] communicate start cmd:0x3311, length:64
+02-10 05:09:13[D] this request is from system_server
+02-10 05:09:13[I] cmd [3311] start...
+02-10 05:09:13[E] SecnvmPowerOn isn't supported.
+02-10 05:09:13[I] cmd [3311] end...[-16777217]
+02-10 05:09:13[I] communicate end -16777217 / length : 0
+02-10 05:10:01[I] communicate start cmd:0x3311, length:64
+02-10 05:10:01[D] this request is from system_server
+02-10 05:10:01[I] cmd [3311] start...
+02-10 05:10:01[E] SecnvmPowerOn isn't supported.
+02-10 05:10:01[I] cmd [3311] end...[-16777217]
+02-10 05:10:01[I] communicate end -16777217 / length : 0
+02-10 05:53:01[I] communicate start cmd:0x3311, length:64
+02-10 05:53:01[D] this request is from system_server
+02-10 05:53:01[I] cmd [3311] start...
+02-10 05:53:01[E] SecnvmPowerOn isn't supported.
+02-10 05:53:01[I] cmd [3311] end...[-16777217]
+02-10 05:53:01[I] communicate end -16777217 / length : 0
+02-10 05:53:10[I] communicate start cmd:0x3311, length:64
+02-10 05:53:10[D] this request is from system_server
+02-10 05:53:10[I] cmd [3311] start...
+02-10 05:53:10[E] SecnvmPowerOn isn't supported.
+02-10 05:53:10[I] cmd [3311] end...[-16777217]
+02-10 05:53:10[I] communicate end -16777217 / length : 0
+02-10 05:53:17[I] communicate start cmd:0x3311, length:64
+02-10 05:53:17[D] this request is from system_server
+02-10 05:53:17[I] cmd [3311] start...
+02-10 05:53:17[E] SecnvmPowerOn isn't supported.
+02-10 05:53:17[I] cmd [3311] end...[-16777217]
+02-10 05:53:17[I] communicate end -16777217 / length : 0
+02-10 06:33:19[I] communicate start cmd:0x3311, length:64
+02-10 06:33:19[D] this request is from system_server
+02-10 06:33:19[I] cmd [3311] start...
+02-10 06:33:19[E] SecnvmPowerOn isn't supported.
+02-10 06:33:19[I] cmd [3311] end...[-16777217]
+02-10 06:33:19[I] communicate end -16777217 / length : 0
+02-10 07:01:42[I] communicate start cmd:0x3311, length:64
+02-10 07:01:42[D] this request is from system_server
+02-10 07:01:42[I] cmd [3311] start...
+02-10 07:01:42[E] SecnvmPowerOn isn't supported.
+02-10 07:01:42[I] cmd [3311] end...[-16777217]
+02-10 07:01:42[I] communicate end -16777217 / length : 0
+02-10 13:35:25[I] communicate start cmd:0x3311, length:64
+02-10 13:35:25[D] this request is from system_server
+02-10 13:35:25[I] cmd [3311] start...
+02-10 13:35:25[E] SecnvmPowerOn isn't supported.
+02-10 13:35:25[I] cmd [3311] end...[-16777217]
+02-10 13:35:25[I] communicate end -16777217 / length : 0
+02-10 13:39:45[I] communicate start cmd:0x3311, length:64
+02-10 13:39:45[D] this request is from system_server
+02-10 13:39:45[I] cmd [3311] start...
+02-10 13:39:45[E] SecnvmPowerOn isn't supported.
+02-10 13:39:45[I] cmd [3311] end...[-16777217]
+02-10 13:39:45[I] communicate end -16777217 / length : 0
+02-10 13:40:36[I] communicate start cmd:0x3308, length:64
+02-10 13:40:36[D] this request is from system_server
+02-10 13:40:36[I] cmd [3308] start...
+02-10 13:40:36[E] Terminate isn't supported.
+02-10 13:40:36[I] cmd [3308] end...[-16777217]
+02-10 13:41:26[I] communicate start cmd:0x3301, length:64
+02-10 13:41:26[D] this request is from system_server
+02-10 13:41:26[I] cmd [3301] start...
+02-10 13:41:26[E] GetBigdataMsg isn't supported.
+02-10 13:41:26[I] cmd [3301] end...[-16777217]
+02-10 13:41:26[I] communicate end -16777217 / length : 0
+02-10 13:46:50[I] communicate start cmd:0x3311, length:64
+02-10 13:46:50[D] this request is from system_server
+02-10 13:46:50[I] cmd [3311] start...
+02-10 13:46:50[E] SecnvmPowerOn isn't supported.
+02-10 13:46:50[I] cmd [3311] end...[-16777217]
+02-10 13:46:50[I] communicate end -16777217 / length : 0
+02-10 14:19:34[I] communicate start cmd:0x3308, length:64
+02-10 14:19:34[D] this request is from system_server
+02-10 14:19:34[I] cmd [3308] start...
+02-10 14:19:34[E] Terminate isn't supported.
+02-10 14:19:34[I] cmd [3308] end...[-16777217]
+02-10 14:20:28[I] communicate start cmd:0x3301, length:64
+02-10 14:20:28[D] this request is from system_server
+02-10 14:20:28[I] cmd [3301] start...
+02-10 14:20:28[E] GetBigdataMsg isn't supported.
+02-10 14:20:28[I] cmd [3301] end...[-16777217]
+02-10 14:20:28[I] communicate end -16777217 / length : 0
+02-10 14:20:37[I] communicate start cmd:0x3311, length:64
+02-10 14:20:37[D] this request is from system_server
+02-10 14:20:37[I] cmd [3311] start...
+02-10 14:20:37[E] SecnvmPowerOn isn't supported.
+02-10 14:20:37[I] cmd [3311] end...[-16777217]
+02-10 15:01:05[I] communicate start cmd:0x3301, length:64
+02-10 15:01:05[D] this request is from system_server
+02-10 15:01:05[I] cmd [3301] start...
+02-10 15:01:05[E] GetBigdataMsg isn't supported.
+02-10 15:01:05[I] cmd [3301] end...[-16777217]
+02-10 15:01:05[I] communicate end -16777217 / length : 0
+02-10 15:01:25[I] communicate start cmd:0x3311, length:64
+02-10 15:01:25[D] this request is from system_server
+02-10 15:01:25[I] cmd [3311] start...
+02-10 15:01:25[E] SecnvmPowerOn isn't supported.
+02-10 15:01:25[I] cmd [3311] end...[-16777217]
+02-10 15:01:25[I] communicate end -16777217 / length : 0
+02-10 15:49:56[I] communicate start cmd:0x3311, length:64
+02-10 15:49:56[D] this request is from system_server
+02-10 15:49:56[I] cmd [3311] start...
+02-10 15:49:56[E] SecnvmPowerOn isn't supported.
+02-10 15:49:56[I] cmd [3311] end...[-16777217]
+02-10 15:49:56[I] communicate end -16777217 / length : 0
+02-10 16:12:12[I] communicate start cmd:0x3311, length:64
+02-10 16:12:12[D] this request is from system_server
+02-10 16:12:12[I] cmd [3311] start...
+02-10 16:12:12[E] SecnvmPowerOn isn't supported.
+02-10 16:12:12[I] cmd [3311] end...[-16777217]
+02-10 16:12:12[I] communicate end -16777217 / length : 0
+02-10 16:39:32[I] communicate start cmd:0x3311, length:64
+02-10 16:39:32[D] this request is from system_server
+02-10 16:39:32[I] cmd [3311] start...
+02-10 16:39:32[E] SecnvmPowerOn isn't supported.
+02-10 16:39:32[I] cmd [3311] end...[-16777217]
+02-10 16:39:32[I] communicate end -16777217 / length : 0
+02-10 16:45:49[I] communicate start cmd:0x3311, length:64
+02-10 16:45:49[D] this request is from system_server
+02-10 16:45:49[I] cmd [3311] start...
+02-10 16:45:49[E] SecnvmPowerOn isn't supported.
+02-10 16:45:49[I] cmd [3311] end...[-16777217]
+02-10 16:45:49[I] communicate end -16777217 / length : 0
+02-10 16:55:06[I] communicate start cmd:0x3311, length:64
+02-10 16:55:06[D] this request is from system_server
+02-10 16:55:06[I] cmd [3311] start...
+02-10 16:55:06[E] SecnvmPowerOn isn't supported.
+02-10 16:55:06[I] cmd [3311] end...[-16777217]
+02-10 16:55:06[I] communicate end -16777217 / length : 0
+02-10 16:56:19[I] communicate start cmd:0x3311, length:64
+02-10 16:56:19[D] this request is from system_server
+02-10 16:56:19[I] cmd [3311] start...
+02-10 16:56:19[E] SecnvmPowerOn isn't supported.
+02-10 16:56:19[I] cmd [3311] end...[-16777217]
+02-10 16:56:19[I] communicate end -16777217 / length : 0
+02-10 16:56:34[I] communicate start cmd:0x3308, length:64
+02-10 16:56:34[D] this request is from system_server
+02-10 16:56:34[I] cmd [3308] start...
+02-10 16:56:34[E] Terminate isn't supported.
+02-10 16:56:34[I] cmd [3308] end...[-16777217]
+02-10 16:57:25[I] communicate start cmd:0x3301, length:64
+02-10 16:57:25[D] this request is from system_server
+02-10 16:57:25[I] cmd [3301] start...
+02-10 16:57:25[E] GetBigdataMsg isn't supported.
+02-10 16:57:25[I] cmd [3301] end...[-16777217]
+02-10 16:57:25[I] communicate end -16777217 / length : 0
+02-10 17:29:31[I] communicate start cmd:0x3311, length:64
+02-10 17:29:31[D] this request is from system_server
+02-10 17:29:31[I] cmd [3311] start...
+02-10 17:29:31[E] SecnvmPowerOn isn't supported.
+02-10 17:29:31[I] cmd [3311] end...[-16777217]
+02-10 17:29:31[I] communicate end -16777217 / length : 0
+02-10 17:43:52[I] communicate start cmd:0x3311, length:64
+02-10 17:43:52[D] this request is from system_server
+02-10 17:43:52[I] cmd [3311] start...
+02-10 17:43:52[E] SecnvmPowerOn isn't supported.
+02-10 17:43:52[I] cmd [3311] end...[-16777217]
+02-10 17:43:52[I] communicate end -16777217 / length : 0
+02-10 19:09:03[I] communicate start cmd:0x3311, length:64
+02-10 19:09:03[D] this request is from system_server
+02-10 19:09:03[I] cmd [3311] start...
+02-10 19:09:03[E] SecnvmPowerOn isn't supported.
+02-10 19:09:03[I] cmd [3311] end...[-16777217]
+02-10 19:09:03[I] communicate end -16777217 / length : 0
+02-10 20:04:28[I] communicate start cmd:0x3311, length:64
+02-10 20:04:28[D] this request is from system_server
+02-10 20:04:28[I] cmd [3311] start...
+02-10 20:04:28[E] SecnvmPowerOn isn't supported.
+02-10 20:04:28[I] cmd [3311] end...[-16777217]
+02-10 20:04:28[I] communicate end -16777217 / length : 0
+02-10 21:46:00[I] communicate start cmd:0x3311, length:64
+02-10 21:46:00[D] this request is from system_server
+02-10 21:46:00[I] cmd [3311] start...
+02-10 21:46:00[E] SecnvmPowerOn isn't supported.
+02-10 21:46:00[I] cmd [3311] end...[-16777217]
+02-10 21:46:00[I] communicate end -16777217 / length : 0
+02-10 22:48:52[I] communicate start cmd:0x3311, length:64
+02-10 22:48:52[D] this request is from system_server
+02-10 22:48:52[I] cmd [3311] start...
+02-10 22:48:52[E] SecnvmPowerOn isn't supported.
+02-10 22:48:52[I] cmd [3311] end...[-16777217]
+02-10 22:48:52[I] communicate end -16777217 / length : 0
+02-10 23:20:06[I] communicate start cmd:0x3311, length:64
+02-10 23:20:06[D] this request is from system_server
+02-10 23:20:06[I] cmd [3311] start...
+02-10 23:20:06[E] SecnvmPowerOn isn't supported.
+02-10 23:20:06[I] cmd [3311] end...[-16777217]
+02-10 23:20:06[I] communicate end -16777217 / length : 0
+02-10 23:44:24[I] communicate start cmd:0x3311, length:64
+02-10 23:44:24[D] this request is from system_server
+02-10 23:44:24[I] cmd [3311] start...
+02-10 23:44:24[E] SecnvmPowerOn isn't supported.
+02-10 23:44:24[I] cmd [3311] end...[-16777217]
+02-10 23:44:24[I] communicate end -16777217 / length : 0
+02-11 01:51:16[I] communicate start cmd:0x3311, length:64
+02-11 01:51:16[D] this request is from system_server
+02-11 01:51:16[I] cmd [3311] start...
+02-11 01:51:16[E] SecnvmPowerOn isn't supported.
+02-11 01:51:16[I] cmd [3311] end...[-16777217]
+02-11 01:51:16[I] communicate end -16777217 / length : 0
+02-11 02:55:03[I] communicate start cmd:0x3311, length:64
+02-11 02:55:03[D] this request is from system_server
+02-11 02:55:03[I] cmd [3311] start...
+02-11 02:55:03[E] SecnvmPowerOn isn't supported.
+02-11 02:55:03[I] cmd [3311] end...[-16777217]
+02-11 02:55:03[I] communicate end -16777217 / length : 0
+02-11 03:35:13[I] communicate start cmd:0x3311, length:64
+02-11 03:35:13[D] this request is from system_server
+02-11 03:35:13[I] cmd [3311] start...
+02-11 03:35:13[E] SecnvmPowerOn isn't supported.
+02-11 03:35:13[I] cmd [3311] end...[-16777217]
+02-11 03:35:13[I] communicate end -16777217 / length : 0
+02-11 05:04:02[I] communicate start cmd:0x3311, length:64
+02-11 05:04:02[D] this request is from system_server
+02-11 05:04:02[I] cmd [3311] start...
+02-11 05:04:02[E] SecnvmPowerOn isn't supported.
+02-11 05:04:02[I] cmd [3311] end...[-16777217]
+02-11 05:04:02[I] communicate end -16777217 / length : 0
+02-11 05:26:23[I] communicate start cmd:0x3311, length:64
+02-11 05:26:23[D] this request is from system_server
+02-11 05:26:23[I] cmd [3311] start...
+02-11 05:26:23[E] SecnvmPowerOn isn't supported.
+02-11 05:26:23[I] cmd [3311] end...[-16777217]
+02-11 05:26:23[I] communicate end -16777217 / length : 0
+02-11 05:31:05[I] communicate start cmd:0x3311, length:64
+02-11 05:31:05[D] this request is from system_server
+02-11 05:31:05[I] cmd [3311] start...
+02-11 05:31:05[E] SecnvmPowerOn isn't supported.
+02-11 05:31:05[I] cmd [3311] end...[-16777217]
+02-11 05:31:05[I] communicate end -16777217 / length : 0
+02-11 05:31:34[I] communicate start cmd:0x3311, length:64
+02-11 05:31:34[D] this request is from system_server
+02-11 05:31:34[I] cmd [3311] start...
+02-11 05:31:34[E] SecnvmPowerOn isn't supported.
+02-11 05:31:34[I] cmd [3311] end...[-16777217]
+02-11 06:44:05[I] communicate start cmd:0x3301, length:64
+02-11 06:44:05[D] this request is from system_server
+02-11 06:44:05[I] cmd [3301] start...
+02-11 06:44:05[E] GetBigdataMsg isn't supported.
+02-11 06:44:05[I] cmd [3301] end...[-16777217]
+02-11 06:44:05[I] communicate end -16777217 / length : 0
+02-11 06:45:38[I] communicate start cmd:0x3311, length:64
+02-11 06:45:38[D] this request is from system_server
+02-11 06:45:38[I] cmd [3311] start...
+02-11 06:45:38[E] SecnvmPowerOn isn't supported.
+02-11 06:45:38[I] cmd [3311] end...[-16777217]
+02-11 06:45:38[I] communicate end -16777217 / length : 0
+02-11 07:19:53[I] communicate start cmd:0x3311, length:64
+02-11 07:19:53[D] this request is from system_server
+02-11 07:19:53[I] cmd [3311] start...
+02-11 07:19:53[E] SecnvmPowerOn isn't supported.
+02-11 07:19:53[I] cmd [3311] end...[-16777217]
+02-11 07:19:53[I] communicate end -16777217 / length : 0
+02-11 09:24:10[I] communicate start cmd:0x3311, length:64
+02-11 09:24:10[D] this request is from system_server
+02-11 09:24:10[I] cmd [3311] start...
+02-11 09:24:10[E] SecnvmPowerOn isn't supported.
+02-11 09:24:10[I] cmd [3311] end...[-16777217]
+02-11 10:20:27[I] communicate start cmd:0x3301, length:64
+02-11 10:20:27[D] this request is from system_server
+02-11 10:20:27[I] cmd [3301] start...
+02-11 10:20:27[E] GetBigdataMsg isn't supported.
+02-11 10:20:27[I] cmd [3301] end...[-16777217]
+02-11 10:20:27[I] communicate end -16777217 / length : 0
+02-11 10:31:40[I] communicate start cmd:0x3308, length:64
+02-11 10:31:40[D] this request is from system_server
+02-11 10:31:40[I] cmd [3308] start...
+02-11 10:31:40[E] Terminate isn't supported.
+02-11 10:31:40[I] cmd [3308] end...[-16777217]
+02-11 10:32:34[I] communicate start cmd:0x3301, length:64
+02-11 10:32:34[D] this request is from system_server
+02-11 10:32:34[I] cmd [3301] start...
+02-11 10:32:34[E] GetBigdataMsg isn't supported.
+02-11 10:32:34[I] cmd [3301] end...[-16777217]
+02-11 10:32:34[I] communicate end -16777217 / length : 0
+02-11 13:18:20[I] communicate start cmd:0x3311, length:64
+02-11 13:18:20[D] this request is from system_server
+02-11 13:18:20[I] cmd [3311] start...
+02-11 13:18:20[E] SecnvmPowerOn isn't supported.
+02-11 13:18:20[I] cmd [3311] end...[-16777217]
+02-11 13:18:20[I] communicate end -16777217 / length : 0
+02-11 14:26:56[I] communicate start cmd:0x3311, length:64
+02-11 14:26:56[D] this request is from system_server
+02-11 14:26:56[I] cmd [3311] start...
+02-11 14:26:56[E] SecnvmPowerOn isn't supported.
+02-11 14:26:56[I] cmd [3311] end...[-16777217]
+02-11 14:26:56[I] communicate end -16777217 / length : 0
+02-11 14:27:43[I] communicate start cmd:0x3311, length:64
+02-11 14:27:43[D] this request is from system_server
+02-11 14:27:43[I] cmd [3311] start...
+02-11 14:27:43[E] SecnvmPowerOn isn't supported.
+02-11 14:27:43[I] cmd [3311] end...[-16777217]
+02-11 14:27:43[I] communicate end -16777217 / length : 0
+02-11 15:20:07[I] communicate start cmd:0x3311, length:64
+02-11 15:20:07[D] this request is from system_server
+02-11 15:20:07[I] cmd [3311] start...
+02-11 15:20:07[E] SecnvmPowerOn isn't supported.
+02-11 15:20:07[I] cmd [3311] end...[-16777217]
+02-11 15:20:07[I] communicate end -16777217 / length : 0
+02-11 15:39:51[I] communicate start cmd:0x3311, length:64
+02-11 15:39:51[D] this request is from system_server
+02-11 15:39:51[I] cmd [3311] start...
+02-11 15:39:51[E] SecnvmPowerOn isn't supported.
+02-11 15:39:51[I] cmd [3311] end...[-16777217]
+02-11 15:39:51[I] communicate end -16777217 / length : 0
+02-11 16:04:10[I] communicate start cmd:0x3308, length:64
+02-11 16:04:10[D] this request is from system_server
+02-11 16:04:10[I] cmd [3308] start...
+02-11 16:04:10[E] Terminate isn't supported.
+02-11 16:04:10[I] cmd [3308] end...[-16777217]
+02-11 16:12:40[I] communicate start cmd:0x3301, length:64
+02-11 16:12:40[D] this request is from system_server
+02-11 16:12:40[I] cmd [3301] start...
+02-11 16:12:40[E] GetBigdataMsg isn't supported.
+02-11 16:12:40[I] cmd [3301] end...[-16777217]
+02-11 16:12:40[I] communicate end -16777217 / length : 0
+02-11 16:12:47[I] communicate start cmd:0x3311, length:64
+02-11 16:12:47[D] this request is from system_server
+02-11 16:12:47[I] cmd [3311] start...
+02-11 16:12:47[E] SecnvmPowerOn isn't supported.
+02-11 16:12:47[I] cmd [3311] end...[-16777217]
+======= DEVROOT VENDOR #LOG END =======

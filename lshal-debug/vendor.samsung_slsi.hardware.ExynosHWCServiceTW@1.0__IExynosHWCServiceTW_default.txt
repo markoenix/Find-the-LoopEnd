@@ -1,0 +1,1 @@
+*** command 'lshal debug -E vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0::IExynosHWCServiceTW/default' failed: exit code 128
